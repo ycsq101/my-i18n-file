@@ -1,0 +1,5 @@
+{
+    ".header .header-nav .header-nav__list-item:nth-child(1) .header-nav__list-item-link-text": "通知",
+    ".header .header-nav .header-nav__list-item:nth-child(2) .header-nav__list-item-link-text": "技术支持",
+    ".header .header-nav .header-nav__list-item:nth-child(3) .header-nav__list-item-link-text": "文档"
+}
