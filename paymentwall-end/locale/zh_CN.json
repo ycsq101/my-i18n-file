@@ -7,7 +7,7 @@
     "My Account": "我的账号",
     "My account": "我的账号",
     "Account settings": "账号设置",
-    "Business Profiles": "企业概况",
+    "Business Profiles": "企业资料",
     "All projects": "所有项目",
     "Overview": "概览",
     "Reports": "报告",
@@ -24,5 +24,8 @@
     "Resolution Center": "解决中心",
     "Chargebacks": "扣款",
     "Messaging Center": "消息中心",
-    "Research and Refund": "研究与退款"
+    "Research and Refund": "研究与退款",
+    "PASSPORT.RISK": "Passport.Risk",
+    "Hide Sidebar": "隐藏侧边栏",
+    "Project": "项目"
 }
