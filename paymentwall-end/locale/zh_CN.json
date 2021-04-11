@@ -51,5 +51,10 @@
     "Date of Birth:": "出生日期：",
     "Nationality:": "国籍：",
     "Phone Number:": "电话号码：",
-    "Save & go to the next step": "保存&下一步"
+    "Save & go to the next step": "保存&下一步",
+    "Preferred Payout Method:": "首选支付方式：",
+    "Beneficiary Name:": "收款人姓名：",
+    "PayPal Email Address:": "PayPal邮箱账号：",
+    "Add notes": "添加备注",
+    "(optional)": "(可选)"
 }
