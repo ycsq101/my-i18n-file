@@ -25,7 +25,12 @@
     "Chargebacks": "扣款",
     "Messaging Center": "消息中心",
     "Research and Refund": "研究与退款",
-    "PASSPORT.RISK": "Passport.Risk",
     "Hide Sidebar": "隐藏侧边栏",
-    "Project": "项目"
+    "Project": "项目",
+    "Settings": "设置",
+    "Payment": "支付",
+    "Methods": "方式",
+    "Set up is not finished": "设置未完成",
+    "Public key": "公钥",
+    "Private key": "私钥"
 }
