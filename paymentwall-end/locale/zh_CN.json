@@ -62,5 +62,6 @@
     "Date of Upload": "上传日期",
     "Tax Form W-8BEN form certifies that the funds you receive from Paymentwall are exempt from being taxed in the United States because you pay income tax in another country. Tax Form must be filled out and hand signed by the beneficiary.": "W-8BEN纳税表格可证明您从Paymentwall收到的资金在美国可免于被征税(可免于在美国纳税)，因为你在其他国家/地区缴纳所得税。税表必须由受益人填写并亲笔签名。",
     "Download Instructions": "下载说明书",
-    "Download form here": "下载表格(税表)"
+    "Download form here": "下载表格(税表)",
+    "Upload": "上传"
 }
