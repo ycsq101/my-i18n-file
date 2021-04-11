@@ -59,6 +59,5 @@
     "(optional)": "(可选)",
     "Numerous files can be uploaded if necessary. File format should be PDF, JPG, PNG, BMP, or TIFF. File size should not exceed 30MB.": "如果有需要，可以上传多个文件。文件格式需要是PDF, JPG, PNG, BMP, 或 TIFF。文件大小不应超过30MB",
     "Document Name":"文档名",
-    "Date of Upload":"上传日期",
-    ""
+    "Date of Upload":"上传日期"
 }
