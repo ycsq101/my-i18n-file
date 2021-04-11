@@ -47,8 +47,9 @@
     "Business Address:": "企业地址：",
     "Tax ID Number:": "税号：",
     "Website Address:": "网站地址：",
-    "Legal Name:": "法人名称：",
+    "Legal Name:": "法人名字：",
     "Date of Birth:": "出生日期：",
     "Nationality:": "国籍：",
-    "Phone Number:": "电话号码："
+    "Phone Number:": "电话号码：",
+    "Save & go to the next step": "保存&下一步"
 }
