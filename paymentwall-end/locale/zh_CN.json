@@ -57,7 +57,10 @@
     "PayPal Email Address:": "PayPal邮箱账号：",
     "Add notes": "添加备注",
     "(optional)": "(可选)",
-    "Numerous files can be uploaded if necessary. File format should be PDF, JPG, PNG, BMP, or TIFF. File size should not exceed 30MB.": "如果有需要，可以上传多个文件。文件格式需要是PDF, JPG, PNG, BMP, 或 TIFF。文件大小不应超过30MB",
-    "Document Name":"文档名",
-    "Date of Upload":"上传日期"
+    "Numerous files can be uploaded if necessary. File format should be PDF, JPG, PNG, BMP, or TIFF. File size should not exceed 30MB.": "如果有需要，可以上传多个文件。文件格式必须是PDF, JPG, PNG, BMP, 或 TIFF。文件大小不能超过30MB",
+    "Document Name": "文档名",
+    "Date of Upload": "上传日期",
+    "Tax Form W-8BEN form certifies that the funds you receive from Paymentwall are exempt from being taxed in the United States because you pay income tax in another country. Tax Form must be filled out and hand signed by the beneficiary.": "W-8BEN纳税表格可证明您从Paymentwall收到的资金在美国可免于被征税(可免于在美国纳税)，因为你在其他国家/地区缴纳所得税。税表必须由受益人填写并亲笔签名。",
+    "Download Instructions": "下载说明书",
+    "Download form here": "下载表格(税表)"
 }
