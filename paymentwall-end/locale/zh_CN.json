@@ -78,8 +78,5 @@
     "Utility Bill / Rental Contract": "水电费单 / 租赁合同",
     "Only rental contract, water, gas, or electricity bills accepted. The bill should have been issued within the last 90 days and must show the name of the account holder and address of the location provided utility bill, matching the name in payout settings.": "只接受租赁合同、水费、煤气费、电费。应该是在最近90天内出具的账单，并且显示的账户持有人姓名和水电费账单的地址，必须与“payout settings”中的姓名和地址一样。",
     "Transactions / Live Payments |": "交易：实时支付 |",
-    "Test Payments": "测试支付",
-    "Transactions /": "交易：",
-    "Live Payments": "实时支付",
-    " | Test Payments": "| 测试支付"
+    "Test Payments": "测试支付"
 }
