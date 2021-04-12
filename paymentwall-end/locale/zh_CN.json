@@ -106,19 +106,41 @@
         "咨询(提问)",
         "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
         ".merchant-area-v7 h1"
+    ],
+    "+ Add new inquiry":[
+        "+ 增加新的问题",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 a[href='https://api.paymentwall.com/developers/help/inquiry-add/']"
+    ],
+    "Status":[
+        "状态",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 .sorting th:nth-child(1)"
+    ],
+    "Submitted":[
+        "提交时间",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 .sorting th:nth-child(2)"
+    ],
+    "Inquiry name":[
+        "Inquiry name(咨询回复)",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 .sorting th:nth-child(4)"
+    ],
+    "Related project":[
+        "相关项目",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 .sorting th:nth-child(5)"
+    ],
+    "Answered":[
+        "已回答",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 .sorting td.verified"
+    ],
+    "New reply":[
+        "最新回复",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 .sorting td.actions .new_reply"
     ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 }
