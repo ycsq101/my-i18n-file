@@ -380,63 +380,63 @@
             ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/help/direct-payment-accounts-documentation']"
         ]
     ],
-    "+ Add Payment account":[
+    "+ Add Payment account": [
         [
             "+ 增加支付账号",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/thirdpartyaccounts/add']"
         ]
     ],
-    "Payment System":[
+    "Payment System": [
         [
             "支付方式",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead a[href='?sort[field]=ps_id&sort[type]=ASC']"
         ]
     ],
-    "Account":[
+    "Account": [
         [
             "账号",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead a[href='?sort[field]=acc_hash&sort[type]=ASC']"
         ]
     ],
-    "Account Type":[
+    "Account Type": [
         [
             "账号类型",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead a[href='?sort[field]=acc_custom_type&sort[type]=ASC']"
         ]
     ],
-    "Admin Note":[
+    "Admin Note": [
         [
             "管理员备注",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(5)"
         ]
     ],
-    "View":[
+    "View": [
         [
             "查看",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a:nth-child(1)"
         ]
     ],
-    "Edit":[
+    "Edit": [
         [
             "编辑",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a:nth-child(2)"
         ]
     ],
-    "Delete":[
+    "Delete": [
         [
             "删除",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a:nth-child(3)"
         ]
     ],
-    "Resend":[
+    "Resend": [
         [
             "重新发送",
             "iframe[src='https://api.paymentwall.com/developers/account']",
