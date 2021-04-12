@@ -442,13 +442,65 @@
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a.resend-verification"
         ]
-    ]
-
-
-
-
-
-
-
-
+    ],
+    "Add Payment accounts": [
+        [
+            "增加支付账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container h1"
+        ]
+    ],
+    "1. Select payment system": [
+        [
+            "1. 选择支付方式",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .box3 h2"
+        ]
+    ],
+    "2. Add account details": [
+        [
+            "2. 增加账号详情",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details h2"
+        ]
+    ],
+    "Payment System:": [
+        [
+            "支付方式：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(1) tr:nth-child(1) th"
+        ]
+    ],
+    "Account type:": [
+        [
+            "账号类型：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(1) tr:nth-child(2) th"
+        ]
+    ],
+    "Payment account - PayPal merchant account(Premium or Business)": "Payment account - PayPal 商家账户(Premium or Business)。",
+    "Micropayment account - PayPal account with special rates for low value transactions (e.g. amount < 12USD).": "Micropayment account - 有低利率交易特惠价的PayPal帐户(如，金额<12USD)。",
+    "Primary e-mail:": [
+        [
+            "主要邮箱：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(2) tr:nth-child(1) th"
+        ]
+    ],
+    "PayPal primary email address(Premier/Business account).": "PayPal主要邮箱(高级 / 企业帐户)。",
+    "Enter the API Username for your Account.": "输入账号的API用户名(输入API用户名)",
+    "Enter the password associated with the API Username.": "输入与API用户名相关联的密码。",
+    "If you are using an API signature, not an API certificate, specify the API signature associated with the API username.": "如果您使用的是API签名，而不是API证书，请指定与API用户名关联的API签名。",
+    "For business accounts only. Provides limited access to your PayPal account merchant area and allows Paymentwall to dispute chargebacks and reversals on your behalf.": "仅适用于企业账户。提供对您的PayPal账户商户区域的有限访问权限，并允许Paymentwall代表您对退款和冲销进行争议。",
+    "Find in PayPal account at \"Profile/My Acount Settings\", near \"Manage Users\" section.": "在PayPal上的 \"ProfileMy Acount Settings\"，靠近 \"Manage Users \"部分找到。",
+    "Payment Data Transfer allows you to receive notification of successfull payments as they are made.": "支付数据传输可以让您收到成功支付的通知。",
+    "Enter your REST API app credentials here": "在此输入您的REST API应用凭证",
+    "I. To complete PayPal Account setup IPN Listener: ": "I. 完成PayPal帐户设置IPN侦听器：",
+    "1. Log in to your PayPal account.": "1. 登录到你的PayPal账户。",
+    "2. Under “My Account” tab go to “History/IPN History”.": "2. 在“My Account”之下，转到“History/IPN History”",
+    "3. Click “Turn on IPN” link.": "点击“Turn on IPN”链接",
+    "4. Enter the following notification URL": "",
+    "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "点击“Receive IPN messages (Enabled)”单选按钮，来开启你的侦听器",
+    "6. Click “Save” button.": "点击“保存”按钮",
+    "II. In case you use REST API:": "如果你使用REST API"
 }
