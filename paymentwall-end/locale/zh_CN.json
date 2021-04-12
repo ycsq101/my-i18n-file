@@ -1,5 +1,8 @@
 {
-    "Notifications": "通知",
+    "Notifications": [
+        "通知",
+        ".header-nav .header-nav__list-item-link-tex"
+    ],
     "Support": "技术支持",
     "Documentation": "文档",
     "Welcome to Paymentwall": "欢迎来到PaymentWall",
@@ -86,10 +89,9 @@
     "Ref Id": "Ref id(参考id)",
     "Transaction type": "交易类型",
     "Pingback Status": "Pingback状态",
-    "Payments": "支付",
     "Blocked payments": "已冻结的支付",
     "Declined payments": "被拒绝的支付",
-    "Offers": "Offers优惠",
+    "Offers": "Offers(优惠)",
     "Successful": "成功",
     "Failed, will be resent": "失败，将被重新发送",
     "Failed, will not be resent": "失败，不会被重新发送",
