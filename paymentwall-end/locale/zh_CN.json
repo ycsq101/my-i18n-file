@@ -81,5 +81,17 @@
     "Test Payments": "测试支付",
     "Transactions /": "交易：",
     "Live Payments": "实时支付",
-    "| Test Payments": "| 测试支付"
+    "| Test Payments": "| 测试支付",
+    "User id": "用户id",
+    "Ref Id": "Ref id(参考id)",
+    "Transaction type": "交易类型",
+    "Pingback Status": "Pingback状态",
+    "Payments": "支付",
+    "Blocked payments": "已冻结的支付",
+    "Declined payments": "被拒绝的支付",
+    "Offers": "Offers优惠",
+    "Successful": "成功",
+    "Failed, will be resent": "失败，将被重新发送",
+    "Failed, will not be resent": "失败，不会被重新发送",
+    "All failed": "全部失败"
 }
