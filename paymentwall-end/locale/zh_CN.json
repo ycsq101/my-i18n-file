@@ -498,9 +498,8 @@
     "I. To complete PayPal Account setup IPN Listener: ": "I. 完成PayPal帐户设置IPN侦听器：",
     "1. Log in to your PayPal account.": "1. 登录到你的PayPal账户。",
     "2. Under “My Account” tab go to “History/IPN History”.": "2. 在“My Account”之下，转到“History/IPN History”",
-    "3. Click “Turn on IPN” link.": "点击“Turn on IPN”链接",
-    "4. Enter the following notification URL": "",
-    "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "点击“Receive IPN messages (Enabled)”单选按钮，来开启你的侦听器",
-    "6. Click “Save” button.": "点击“保存”按钮",
+    "3. Click “Turn on IPN” link.": "3. 点击“Turn on IPN”链接",
+    "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "5. 点击“Receive IPN messages (Enabled)”单选按钮，来开启你的侦听器",
+    "6. Click “Save” button.": "6. 点击“保存”按钮",
     "II. In case you use REST API:": "如果你使用REST API"
 }
