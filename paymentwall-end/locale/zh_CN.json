@@ -1,7 +1,7 @@
 {
     "Notifications": [
         "通知",
-        ".header-nav .header-nav__list-item-link-tex"
+        ".header-nav .header-nav__list-item-link-text"
     ],
     "Support": "技术支持",
     "Documentation": "文档",
