@@ -101,5 +101,24 @@
     "Hide Sidebar": [
         "隐藏侧边栏",
         ".aside__wrapper .aside-hide .aside-hide__text"
+    ],
+    "Inquiries":[
+        "咨询(提问)",
+        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+        ".merchant-area-v7 h1"
     ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
