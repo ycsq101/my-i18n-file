@@ -501,5 +501,6 @@
     "3. Click “Turn on IPN” link.": "3. 点击“Turn on IPN”链接",
     "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "5. 点击“Receive IPN messages (Enabled)”单选按钮，来开启你的侦听器",
     "6. Click “Save” button.": "6. 点击“保存”按钮",
-    "II. In case you use REST API:": "如果你使用REST API"
+    "II. In case you use REST API:": "II. 如果你使用REST API"
+
 }
