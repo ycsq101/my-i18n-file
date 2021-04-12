@@ -141,6 +141,33 @@
         "最新回复",
         "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
         ".merchant-area-v7 .sorting td.actions .new_reply"
+    ],
+    
+    "Account Details":[
+        "账号详情",
+        "iframe[src='https://api.paymentwall.com/developers/account']",
+        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account']"
+    ],
+    "Feed Settings":[
+        "Feed设置",
+        "iframe[src='https://api.paymentwall.com/developers/account']",
+        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account/feed-settings']"
+    ],
+    
+    "Sub-Accounts":[
+        "子账号",
+        "iframe[src='https://api.paymentwall.com/developers/account']",
+        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/sublogins']"
+    ],
+    "SpiderPipe Accounts":[
+        "SpiderPipe帐户",
+        "iframe[src='https://api.paymentwall.com/developers/account']",
+        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/thirdpartyaccounts']"
+    ],
+    
+    "Reporting Settings":[
+        "Report报告设置",
+        "iframe[src='https://api.paymentwall.com/developers/account']",
+        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account/reporting-settings']"
     ]
- 
 }
