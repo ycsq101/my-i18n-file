@@ -13,93 +13,93 @@
     ],
     "Welcome to Paymentwall": "欢迎来到PaymentWall",
     "Get started today by setting up your first Paymentwall project so you can start accepting payments from all over the world with 100 different payment options. The Paymentwall Merchant Area allows you to easily manage your payment connections with monetization tools and by utilizing our Analytics and Dashboard.": "从今天开始，设置你的第一个Paymentwall项目，这样你就可以通过100多种不同的支付方式，接收来自世界各地的付款。Paymentwall商户区域允许你可以使用货币化工具，并且利用我们的Analytics和Dashboard，轻松管理您的支付链接。",
-    "My Account": "我的账号",
-    "My account": "我的账号",
-    "Account settings": ["账号设置",".header-account .header-account__button-text"],
-    "Business Profiles": "企业资料",
+    "My Account": [
+        "我的账号",
+        ".header-account .header-account__button-text"
+    ],
+    "My account": [
+        "我的账号",
+        ".dropdown li:nth-child(1) .header-account__menu-title"
+    ],
+    "Account settings": [
+        "账号设置",
+        ".dropdown li:nth-child(2) a"
+    ],
+    "Business Profiles": [
+        "企业资料",
+        ".dropdown li:nth-child(3) a"
+    ],
+    "Log out": [
+        "退出登录",
+        ".dropdown li:nth-child(5) a"
+    ],
     "All projects": "所有项目",
-    "Overview": "概览",
-    "Reports": "报告",
-    "Transactions": "交易",
-    "Countries": "国家",
-    "Payment Methods": "支付方式",
-    "Currencies": "币种",
-    "Price Points": "价格点数",
-    "SpiderPipe (Gateway)": "SpiderPipe(网关)",
-    "Payouts": "支出",
-    "Marketing Tools": "营销工具",
-    "Coupons": "优惠券",
-    "Promo Campaigns": "促销活动",
-    "Resolution Center": "解决中心",
-    "Chargebacks": "扣款",
-    "Messaging Center": "消息中心",
-    "Research and Refund": "研究与退款",
-    "Hide Sidebar": "隐藏侧边栏",
-    "Project": "项目",
-    "Settings": "设置",
-    "Payment": "支付",
-    "Methods": "方式",
-    "Set up is not finished": "设置未完成",
-    "Public key": "公钥",
-    "Private key": "私钥",
-    "Banned": "被封禁",
-    "Set default": "设置为默认",
-    "ADD NEW BUSINESS ENTITY": "增加新的Business Entity(实体商业)",
-    "Business Information": "企业信息",
-    "In progress": "进行中",
-    "Payout Information": "支出信息",
-    "Completed": "已完成",
-    "Documents to Upload": "上传文件",
-    "Let's get started": "我们开始吧",
-    "Your Business Location:": "你的企业所在地：",
-    "Business Type:": "企业类型：",
-    "Company": "公司",
-    "Individual/Sole Proprietorship": "个人独资企业",
-    "Business Address:": "企业地址：",
-    "Tax ID Number:": "税号：",
-    "Website Address:": "网站地址：",
-    "Legal Name:": "法人名字：",
-    "Date of Birth:": "出生日期：",
-    "Nationality:": "国籍：",
-    "Do you have a second citizenship?": "你有第二个国籍吗",
-    "Phone Number:": "电话号码：",
-    "Save & go to the next step": "保存&下一步",
-    "Preferred Payout Method:": "首选支付方式：",
-    "Beneficiary Name:": "收款人姓名：",
-    "PayPal Email Address:": "PayPal邮箱账号：",
-    "Add notes": "添加备注",
-    "(optional)": "(可选)",
-    "Numerous files can be uploaded if necessary. File format should be PDF, JPG, PNG, BMP, or TIFF. File size should not exceed 30MB.": "如果有需要，可以上传多个文件。文件格式必须是PDF, JPG, PNG, BMP, 或 TIFF。文件大小不能超过30MB。注意：其实整体下来，像是在给实体店注册+审核什么的，整体感觉PaymentWall比较像收钱吧",
-    "Document Name": "文档名",
-    "Date of Upload": "上传日期",
-    "Tax Form W-8BEN form certifies that the funds you receive from Paymentwall are exempt from being taxed in the United States because you pay income tax in another country. Tax Form must be filled out and hand signed by the beneficiary.": "W-8BEN纳税表格可证明您从Paymentwall收到的资金在美国可免于被征税(可免于在美国纳税)，因为你在其他国家/地区缴纳所得税。税表必须由受益人填写并亲笔签名。",
-    "Download Instructions": "下载说明书",
-    "Download form here": "下载表格(税表)",
-    "Upload": "上传",
-    "Tax Identification": "Tax Identification(税号)",
-    "The Tax ID must be in color, with all four edges visible, and match the data in your Payout Profile.": "税号必须是彩色的，并且所有四个边都可见，并且与“Payout Profile”中的数据匹配。",
-    "Monthly Financial Summary": "每月财务摘要",
-    "It must be the official PayPal statement showing the same account holder name and email address as in your Payout Settings page.": "它必须是PayPal官方声明，并且显示与“Payout Settings”页面相同的账号持有人姓名和邮箱。",
-    "Sample of the Monthly Financial Summary": "每月财务摘要样本",
-    "Instructions how to download Monthly Financial Summary": "如何下载每月财务摘要的说明书",
-    "ID of the Beneficiary": "收款人的身份证",
-    "The ID must be valid at time of submission and provided colour photocopies or scanned copies should show biographical data pages of the document with all four edges of the document visible. Information must match the data in your Payout Profile.": "该身份证在提交时必须是有效的，并且提供的彩色影印件或扫描件应显示文档的个人资料页面，并使文档的所有四个边缘均清晰可见。信息必须与您的“Payout Profile” 中的数据匹配。(意思就是说，要提供身份证照片，该照片必须包含身份证正面，而且照片必须四角清晰可见，所以此处的文档，其实是泛指多种文件类型而已)",
-    "Utility Bill / Rental Contract": "水电费单 / 租赁合同",
-    "Only rental contract, water, gas, or electricity bills accepted. The bill should have been issued within the last 90 days and must show the name of the account holder and address of the location provided utility bill, matching the name in payout settings.": "只接受租赁合同、水费、煤气费、电费。应该是在最近90天内出具的账单，并且显示的账户持有人姓名和水电费账单的地址，必须与“payout settings”中的姓名和地址一样。",
-    "Transactions / Live Payments |": "交易：实时支付 |",
-    "Test Payments": "测试支付",
-    "Transactions /": "交易：",
-    "Live Payments": "实时支付",
-    "| Test Payments": "| 测试支付",
-    "User id": "用户id",
-    "Ref Id": "Ref id(参考id)",
-    "Transaction type": "交易类型",
-    "Pingback Status": "Pingback状态",
-    "Blocked payments": "已冻结的支付",
-    "Declined payments": "被拒绝的支付",
-    "Offers": "Offers(优惠)",
-    "Successful": "成功",
-    "Failed, will be resent": "失败，将被重新发送",
-    "Failed, will not be resent": "失败，不会被重新发送",
-    "All failed": "全部失败"
+    "Overview": [
+        "概览",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/overview'] .aside-nav__list-item-link-text"
+    ],
+    "Reports": [
+        "报告",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports'] .aside-nav__list-item-link-text"
+    ],
+    "Transactions": [
+        "交易",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/transactions']"
+    ],
+    "Countries": [
+        "国家",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/countries']"
+    ],
+    "Payment Methods": [
+        "支付方式",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/payment-methods']"
+    ],
+    "Currencies": [
+        "币种",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/currencies']"
+    ],
+    "Price Points": [
+        "价格点数",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/price-points']"
+    ],
+    "SpiderPipe (Gateway)": [
+        "SpiderPipe(网关)",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/spiderpipe']"
+    ],
+    "Payouts": [
+        "支出",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/payouts'] .aside-nav__list-item-link-text"
+    ],
+    "Marketing Tools": [
+        "营销工具",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools'] .aside-nav__list-item-link-text"
+    ],
+    "Coupons": [
+        "优惠券",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/coupons']"
+    ],
+    "Promo Campaigns": [
+        "促销活动",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/promo-campaigns']"
+    ],
+    "Resolution Center": [
+        "解决中心",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center'] .aside-nav__list-item-link-text"
+    ],
+    "Chargebacks": [
+        "扣款",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/chargebacks']"
+    ],
+    "Messaging Center": [
+        "消息中心",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/messaging-center']"
+    ],
+    "Research and Refund": [
+        "研究与退款",
+        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/research-and-refund']"
+    ],
+    "Hide Sidebar": [
+        "隐藏侧边栏",
+        ".aside__wrapper .aside-hide .aside-hide__text"
+    ]
 }
