@@ -776,6 +776,6 @@
         ]
     ],
     "In HTML code please replace": "在html代码中，请替换",
-    "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id",
-    
+    "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id"
+
 }
