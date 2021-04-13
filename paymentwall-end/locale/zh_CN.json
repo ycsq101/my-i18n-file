@@ -1,206 +1,305 @@
 {
     "Notifications": [
-        "通知",
-        ".header-nav li:nth-child(1) .header-nav__list-item-link-text"
+        [
+            "通知",
+            ".header-nav li:nth-child(1) .header-nav__list-item-link-text"
+        ]
     ],
     "Support": [
-        "技术支持",
-        ".header-nav li:nth-child(2) .header-nav__list-item-link-text"
+        [
+            "技术支持",
+            ".header-nav li:nth-child(2) .header-nav__list-item-link-text"
+        ]
     ],
     "Documentation": [
-        "文档",
-        ".header-nav li:nth-child(3) .header-nav__list-item-link-text"
+        [
+            "文档",
+            ".header-nav li:nth-child(3) .header-nav__list-item-link-text"
+        ]
     ],
     "Welcome to Paymentwall": "欢迎来到PaymentWall",
     "Get started today by setting up your first Paymentwall project so you can start accepting payments from all over the world with 100 different payment options. The Paymentwall Merchant Area allows you to easily manage your payment connections with monetization tools and by utilizing our Analytics and Dashboard.": "从今天开始，设置你的第一个Paymentwall项目，这样你就可以通过100多种不同的支付方式，接收来自世界各地的付款。Paymentwall商户区域允许你可以使用货币化工具，并且利用我们的Analytics和Dashboard，轻松管理您的支付链接。",
     "My Account": [
-        "我的账号",
-        ".header-account .header-account__button-text"
+        [
+            "我的账号",
+            ".header-account .header-account__button-text"
+        ]
     ],
     "My account": [
-        "我的账号",
-        ".dropdown li:nth-child(1) .header-account__menu-title"
+        [
+            "我的账号",
+            ".dropdown li:nth-child(1) .header-account__menu-title"
+        ]
     ],
     "Account settings": [
-        "账号设置",
-        ".dropdown li:nth-child(2) a"
+        [
+            "账号设置",
+            ".dropdown li:nth-child(2) a"
+        ]
     ],
     "Business Profiles": [
-        "企业资料",
-        ".dropdown li:nth-child(3) a"
+        [
+            "企业资料",
+            ".dropdown li:nth-child(3) a"
+        ]
     ],
     "Log out": [
-        "退出登录",
-        ".dropdown li:nth-child(5) a"
+        [
+            "退出登录",
+            ".dropdown li:nth-child(5) a"
+        ]
     ],
     "All projects": "所有项目",
     "Overview": [
-        "概览",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/overview'] .aside-nav__list-item-link-text"
+        [
+            "概览",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/overview'] .aside-nav__list-item-link-text"
+        ],
+        [
+            "概览",
+            "app-project-widget .tiles a.tile:nth-child(1) tile-name"
+        ]
     ],
     "Reports": [
-        "报告",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports'] .aside-nav__list-item-link-text"
+        [
+            "报告",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports'] .aside-nav__list-item-link-text"
+        ]
     ],
     "Transactions": [
-        "交易",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/transactions']"
+        [
+            "交易",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/transactions']"
+        ]
     ],
     "Countries": [
-        "国家",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/countries']"
+        [
+            "国家",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/countries']"
+        ]
     ],
     "Payment Methods": [
-        "支付方式",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/payment-methods']"
+        [
+            "支付方式",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/payment-methods']"
+        ]
     ],
     "Currencies": [
-        "币种",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/currencies']"
+        [
+            "币种",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/currencies']"
+        ]
     ],
     "Price Points": [
-        "价格点数",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/price-points']"
+        [
+            "价格点数",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/price-points']"
+        ]
     ],
     "SpiderPipe (Gateway)": [
-        "SpiderPipe(网关)",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/spiderpipe']"
+        [
+            "SpiderPipe(网关)",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/spiderpipe']"
+        ]
     ],
     "Payouts": [
-        "支出",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/payouts'] .aside-nav__list-item-link-text"
+        [
+            "支出",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/payouts'] .aside-nav__list-item-link-text"
+        ]
     ],
     "Marketing Tools": [
-        "营销工具",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools'] .aside-nav__list-item-link-text"
+        [
+            "营销工具",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools'] .aside-nav__list-item-link-text"
+        ]
     ],
     "Coupons": [
-        "优惠券",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/coupons']"
+        [
+            "优惠券",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/coupons']"
+        ]
     ],
     "Promo Campaigns": [
-        "促销活动",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/promo-campaigns']"
+        [
+            "促销活动",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/promo-campaigns']"
+        ]
     ],
     "Resolution Center": [
-        "解决中心",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center'] .aside-nav__list-item-link-text"
+        [
+            "解决中心",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center'] .aside-nav__list-item-link-text"
+        ]
     ],
     "Chargebacks": [
-        "扣款",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/chargebacks']"
+        [
+            "扣款",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/chargebacks']"
+        ]
     ],
     "Messaging Center": [
-        "消息中心",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/messaging-center']"
+        [
+            "消息中心",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/messaging-center']"
+        ]
     ],
     "Research and Refund": [
-        "研究与退款",
-        ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/research-and-refund']"
+        [
+            "研究与退款",
+            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/research-and-refund']"
+        ]
     ],
     "Hide Sidebar": [
-        "隐藏侧边栏",
-        ".aside__wrapper .aside-hide .aside-hide__text"
+        [
+            "隐藏侧边栏",
+            ".aside__wrapper .aside-hide .aside-hide__text"
+        ]
     ],
     "Inquiries": [
-        "咨询(提问)",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 h1"
+        [
+            "咨询(提问)",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 h1"
+        ]
     ],
     "+ Add new inquiry": [
-        "+ 增加新的问题",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 a[href='https://api.paymentwall.com/developers/help/inquiry-add/']"
+        [
+            "+ 增加新的问题",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 a[href='https://api.paymentwall.com/developers/help/inquiry-add/']"
+        ]
     ],
     "Status": [
-        "状态",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 .sorting th:nth-child(1)"
+        [
+            "状态",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 .sorting th:nth-child(1)"
+        ],
+        [
+            "状态",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(1) a"
+        ]
     ],
     "Submitted": [
-        "提交时间",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 .sorting th:nth-child(2)"
+        [
+            "提交时间",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 .sorting th:nth-child(2)"
+        ]
     ],
     "Inquiry name": [
-        "Inquiry name(咨询回复)",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 .sorting th:nth-child(4)"
+        [
+            "Inquiry name(咨询回复)",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 .sorting th:nth-child(4)"
+        ]
     ],
     "Related project": [
-        "相关项目",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 .sorting th:nth-child(5)"
+        [
+            "相关项目",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 .sorting th:nth-child(5)"
+        ]
     ],
     "Answered": [
-        "已回答",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 .sorting td.verified"
+        [
+            "已回答",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 .sorting td.verified"
+        ]
     ],
     "New reply": [
-        "最新回复",
-        "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
-        ".merchant-area-v7 .sorting td.actions .new_reply"
+        [
+            "最新回复",
+            "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
+            ".merchant-area-v7 .sorting td.actions .new_reply"
+        ]
     ],
     "Account Details": [
-        "账号详情",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account']"
+        [
+            "账号详情",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account']"
+        ]
     ],
     "Feed Settings": [
-        "Feed设置",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account/feed-settings']"
+        [
+            "Feed设置",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account/feed-settings']"
+        ]
     ],
     "Sub-Accounts": [
-        "子账号",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/sublogins']"
+        [
+            "子账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/sublogins']"
+        ]
     ],
     "SpiderPipe Accounts": [
-        "SpiderPipe帐户",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/thirdpartyaccounts']"
+        [
+            "SpiderPipe帐户",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/thirdpartyaccounts']"
+        ]
     ],
     "Reporting Settings": [
-        "Report报告设置",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account/reporting-settings']"
+        [
+            "Report报告设置",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance-container .compliance__nav a[href='https://api.paymentwall.com/developers/account/reporting-settings']"
+        ]
     ],
     "Your name:": [
-        "你的名字：",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(1) .field-group__label-inner"
+        [
+            "你的名字：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(1) .field-group__label-inner"
+        ]
     ],
     "Phone number:": [
-        "电话号码：",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(2) .field-group__label-inner"
+        [
+            "电话号码：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(2) .field-group__label-inner"
+        ]
     ],
     "Email:": [
-        "邮箱：",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(3) .field-group__label-inner"
+        [
+            "邮箱：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(3) .field-group__label-inner"
+        ]
     ],
     "Password:": [
-        "密码：",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(4) .field-group__label-inner"
+        [
+            "密码：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__section .section__field-group:nth-child(4) .field-group__label-inner"
+        ]
     ],
     "Change password": [
-        "修改密码",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__section #js-show-password"
+        [
+            "修改密码",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__section #js-show-password"
+        ]
     ],
     "Hide fields, I don't want to change password": [
-        "隐藏字段，我不想修改密码了",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__section #js-hide-password"
+        [
+            "隐藏字段，我不想修改密码了",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__section #js-hide-password"
+        ]
     ],
     "Save": [
-        "保存",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7 .compliance .information__footer button.compliance-button"
+        [
+            "保存",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .information__footer button.compliance-button"
+        ]
     ],
     "Account settings have been saved.": "账号设置已被保存",
     "What do you want to see in your Merchant Area": "你想在你的商户区域看到什么",
@@ -217,123 +316,432 @@
     "Inquiry created": "咨询提问已创建",
     "Inquiry closed": "咨询提问已关闭",
     "Inquiry response": "咨询提问回复",
-
-
-
-
-
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Add Subaccount": [
+        [
+            "增加子账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .subaccounts p a[href='https://api.paymentwall.com/developers/sublogins/add']"
+        ],
+        [
+            "增加子账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container h1"
+        ]
     ],
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Name": [
+        [
+            "名字",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container form table tbody tr:nth-child(1) th"
+        ]
     ],
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Lastname": [
+        [
+            "Lastname",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container form table tbody tr:nth-child(2) th"
+        ]
     ],
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Email": [
+        [
+            "邮箱",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container form table tbody tr:nth-child(3) th"
+        ]
     ],
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Subaccount password": [
+        [
+            "子账号密码",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container form table tbody tr:nth-child(4) th"
+        ]
     ],
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Your current password": [
+        [
+            "你当前的主账号密码",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container form table tbody tr:nth-child(5) th"
+        ]
     ],
-    "": [
-        "",
-        "iframe[src='https://api.paymentwall.com/developers/account']",
-        ".merchant-area-v7"
+    "Accounts": [
+        [
+            "账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/thirdpartyaccounts']"
+        ]
     ],
-    "Project": [
-        "项目",
-        ""
+    "Assigned accounts": [
+        [
+            "Assigned accounts(指定账号)",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/thirdpartyaccounts/assigned']"
+        ]
     ],
-    "Settings": [
-        "设置",
-        ""
+    "How to set up SpiderPipe payment Account": [
+        [
+            "如何设置SpiderPipe支付账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/help/direct-payment-accounts-documentation']"
+        ]
     ],
-    "Payment": [
-        "支付",
-        ""
+    "+ Add Payment account": [
+        [
+            "+ 增加支付账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/thirdpartyaccounts/add']"
+        ]
     ],
-    "Methods": [
-        "方式",
-        ""
+    "Payment System": [
+        [
+            "支付方式",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(2) a"
+        ]
+    ],
+    "Account": [
+        [
+            "账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(3) a"
+        ]
+    ],
+    "Account Type": [
+        [
+            "账号类型",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(4) a"
+        ]
+    ],
+    "Admin Note": [
+        [
+            "管理员备注",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(5)"
+        ]
+    ],
+    "View": [
+        [
+            "查看",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a:nth-child(1)"
+        ]
+    ],
+    "Edit": [
+        [
+            "编辑",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a:nth-child(2)"
+        ]
+    ],
+    "Delete": [
+        [
+            "删除",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a:nth-child(3)"
+        ]
+    ],
+    "Resend": [
+        [
+            "重新发送",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .spiderpipe-accounts table#accounts_list tbody td.actions a.resend-verification"
+        ]
+    ],
+    "Add Payment accounts": [
+        [
+            "增加支付账号",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container h1"
+        ]
+    ],
+    "1. Select payment system": [
+        [
+            "1. 选择支付方式",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .box3 h2"
+        ]
+    ],
+    "2. Add account details": [
+        [
+            "2. 增加账号详情",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details h2"
+        ]
+    ],
+    "Payment System:": [
+        [
+            "支付方式：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(1) tr:nth-child(1) th"
+        ]
+    ],
+    "Account type:": [
+        [
+            "账号类型：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(1) tr:nth-child(2) th"
+        ]
+    ],
+    "Payment account - PayPal merchant account(Premium or Business)": "Payment account - PayPal 商家账户(Premium or Business)。",
+    "Micropayment account - PayPal account with special rates for low value transactions (e.g. amount < 12USD).": "Micropayment account - 有低利率交易特惠价的PayPal帐户(如，金额<12USD)。",
+    "Primary e-mail:": [
+        [
+            "主要邮箱：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(2) tr:nth-child(1) th"
+        ]
+    ],
+    "PayPal primary email address(Premier/Business account).": "PayPal主要邮箱(高级 / 企业帐户)。",
+    "Enter the API Username for your Account.": "输入账号的API用户名(输入API用户名)",
+    "Enter the password associated with the API Username.": "输入与API用户名相关联的密码。",
+    "If you are using an API signature, not an API certificate, specify the API signature associated with the API username.": "如果您使用的是API签名，而不是API证书，请指定与API用户名关联的API签名。",
+    "For business accounts only. Provides limited access to your PayPal account merchant area and allows Paymentwall to dispute chargebacks and reversals on your behalf.": "仅适用于企业账户。提供对您的PayPal账户商户区域的有限访问权限，并允许Paymentwall代表您对退款和冲销进行争议。",
+    "Find in PayPal account at \"Profile/My Acount Settings\", near \"Manage Users\" section.": "在PayPal上的 \"ProfileMy Acount Settings\"，靠近 \"Manage Users \"部分找到。",
+    "Payment Data Transfer allows you to receive notification of successfull payments as they are made.": "支付数据传输可以让您收到成功支付的通知。",
+    "Enter your REST API app credentials here": "在此输入您的REST API应用凭证",
+    "I. To complete PayPal Account setup IPN Listener: ": "I. 完成PayPal帐户设置IPN侦听器：",
+    "1. Log in to your PayPal account.": "1. 登录到你的PayPal账户。",
+    "2. Under “My Account” tab go to “History/IPN History”.": "2. 在“My Account”之下，转到“History/IPN History”",
+    "3. Click “Turn on IPN” link.": "3. 点击“Turn on IPN”链接",
+    "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "5. 点击“Receive IPN messages (Enabled)”单选按钮，来开启你的侦听器",
+    "6. Click “Save” button.": "6. 点击“保存”按钮",
+    "II. In case you use REST API:": "II. 如果你使用REST API",
+    "Timezone:": [
+        [
+            "时区：",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__label .field-group__label-inner"
+        ]
+    ],
+    "(GMT -11:00) Midway Island, Samoa": [
+        [
+            "(GMT-11:00) 萨摩亚中途岛",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Pacific/Apia']"
+        ]
+    ],
+    "(GMT -10:00) Hawaii Standard Time": [
+        [
+            "(GMTA-10:00) 夏威夷标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Pacific/Honolulu']"
+        ]
+    ],
+    "(GMT -9:00) Alaska Standard Time": [
+        [
+            "(GMT -9:00) 阿拉斯加标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Anchorage']"
+        ]
+    ],
+    "(GMT -8:00) Pacific Standard Time": [
+        [
+            "(GMT -8:00) 太平洋标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Los_Angeles']"
+        ]
+    ],
+    "(GMT -7:00) Mountain Standard Time": [
+        [
+            "(GMT -7:00) 山地标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Denver']"
+        ]
+    ],
+    "(GMT -6:00) Central Standard Time": [
+        [
+            "(GMT -6:00) 中部标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Chicago']"
+        ]
+    ],
+    "(GMT -5:00) Eastern Standard Time": [
+        [
+            "(GMT -5:00) 东部标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/New_York']"
+        ]
+    ],
+    "(GMT -4:30) Caracas": [
+        [
+            "(GMT -4:30) 加拉加斯(委内瑞拉首都)",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Caracas']"
+        ]
+    ],
+    "(GMT -4:00) Atlantic Time": [
+        [
+            "(GMT -4:00) 大西洋时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Halifax']"
+        ]
+    ],
+    "(GMT -3:00) Brazil Eastern Time": [
+        [
+            "(GMT -3:00) 巴西东部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Sao_Paulo']"
+        ]
+    ],
+    "(GMT -2:00) Mid-Atlantic": [
+        [
+            "(GMT -2:00) 大西洋中部",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Atlantic/Cape_Verde']"
+        ]
+    ],
+    "(GMT -1:00) Azores": [
+        [
+            "(GMT -1:00) 亚速尔群岛",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Atlantic/Azores']"
+        ]
+    ],
+    "(GMT) UTC": [
+        [
+            "(GMT) UTC",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='UTC']"
+        ]
+    ],
+    "(GMT) Western European Time": [
+        [
+            "(GMT)西欧时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/London']"
+        ]
+    ],
+    "(GMT +1:00) European Central Time": [
+        [
+            "(GMT +1:00) 欧洲中部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/Paris']"
+        ]
+    ],
+    "(GMT +2:00) Eastern European Time": [
+        [
+            "(GMT +2:00) 东欧时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/Helsinki']"
+        ]
+    ],
+    "(GMT +2:00) Egypt Standard Time": [
+        [
+            "(GMT +2:00) 埃及标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Africa/Cairo']"
+        ]
+    ],
+    "(GMT +3:00) Moscow": [
+        [
+            "(GMT +3:00) 莫斯科时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/Moscow']"
+        ]
+    ],
+    "(GMT +4:00) Near East Time": [
+        [
+            "(GMT +4:00) 近东时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Dubai']"
+        ]
+    ],
+    "(GMT +4:30) Kabul": [
+        [
+            "(GMT +4:30) 土耳其",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Kabul']"
+        ]
+    ],
+    "(GMT +5:00) Pakistan Lahore Time": [
+        [
+            "(GMT +5:00) 巴基斯坦 拉合尔时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Karachi']"
+        ]
+    ],
+    "(GMT +5:30) India Standard Time": [
+        [
+            "(GMT +5:30) 印度标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Calcutta']"
+        ]
+    ],
+    "(GMT +6:00) Bangladesh Standard Time": [
+        [
+            "(GMT +6:00) 孟加拉国标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Dhaka']"
+        ]
+    ],
+    "(GMT +7:00) Vietnam Standard Time": [
+        [
+            "(GMT +7:00) 越南标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Ho_Chi_Minh']"
+        ]
+    ],
+    "(GMT +8:00) China Taiwan Time": [
+        [
+            "(GMT +8:00) 中国台湾时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Hong_Kong']"
+        ]
+    ],
+    "(GMT +8:00) Philippine Standard Time": [
+        [
+            "(GMT +8:00) 菲丽宾标砖时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Manila']"
+        ]
+    ],
+    "(GMT +9:00) Japan Standard Time": [
+        [
+            "(GMT +9:00) 日本标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Tokyo']"
+        ]
+    ],
+    "(GMT +9:30) Australia Central Time": [
+        [
+            "(GMT +9:30) 澳大利亚中部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Australia/Adelaide']"
+        ]
+    ],
+    "(GMT +10:00) Australia Eastern Time": [
+        [
+            "(GMT +10:00) 澳大利亚东部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Australia/Melbourne']"
+        ]
+    ],
+    "(GMT +11:00) Solomon Standard Time": [
+        [
+            "(GMT +11:00) 所罗门标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Magadan']"
+        ]
+    ],
+    "(GMT +12:00) New Zealand Standard Time": [
+        [
+            "(GMT +12:00) 新西兰标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Pacific/Auckland']"
+        ]
     ],
     "Set up is not finished": "设置未完成",
-    "Public key": "公钥",
-    "Private key": "私钥",
     "Banned": "被封禁",
-    "Set default": "设置为默认",
-    "ADD NEW BUSINESS ENTITY": "增加新的Business Entity(实体商业)",
-    "Business Information": "企业信息",
-    "In progress": "进行中",
-    "Payout Information": "支出信息",
-    "Completed": "已完成",
-    "Documents to Upload": "上传文件",
-    "Let's get started": "我们开始吧",
-    "Your Business Location:": "你的企业所在地：",
-    "Business Type:": "企业类型：",
-    "Company": "公司",
-    "Individual/Sole Proprietorship": "个人独资企业",
-    "Business Address:": "企业地址：",
-    "Tax ID Number:": "税号：",
-    "Website Address:": "网站地址：",
-    "Legal Name:": "法人名字：",
-    "Date of Birth:": "出生日期：",
-    "Nationality:": "国籍：",
-    "Do you have a second citizenship?": "你有第二个国籍吗",
-    "Phone Number:": "电话号码：",
-    "Save & go to the next step": "保存&下一步",
-    "Preferred Payout Method:": "首选支付方式：",
-    "Beneficiary Name:": "收款人姓名：",
-    "PayPal Email Address:": "PayPal邮箱账号：",
-    "Add notes": "添加备注",
-    "(optional)": "(可选)",
-    "Numerous files can be uploaded if necessary. File format should be PDF, JPG, PNG, BMP, or TIFF. File size should not exceed 30MB.": "如果有需要，可以上传多个文件。文件格式必须是PDF, JPG, PNG, BMP, 或 TIFF。文件大小不能超过30MB。注意：其实整体下来，像是在给实体店注册+审核什么的，整体感觉PaymentWall比较像收钱吧",
-    "Document Name": "文档名",
-    "Date of Upload": "上传日期",
-    "Tax Form W-8BEN form certifies that the funds you receive from Paymentwall are exempt from being taxed in the United States because you pay income tax in another country. Tax Form must be filled out and hand signed by the beneficiary.": "W-8BEN纳税表格可证明您从Paymentwall收到的资金在美国可免于被征税(可免于在美国纳税)，因为你在其他国家/地区缴纳所得税。税表必须由受益人填写并亲笔签名。",
-    "Download Instructions": "下载说明书",
-    "Download form here": "下载表格(税表)",
-    "Upload": "上传",
-    "Tax Identification": "Tax Identification(税号)",
-    "The Tax ID must be in color, with all four edges visible, and match the data in your Payout Profile.": "税号必须是彩色的，并且所有四个边都可见，并且与“Payout Profile”中的数据匹配。",
-    "Monthly Financial Summary": "每月财务摘要",
-    "It must be the official PayPal statement showing the same account holder name and email address as in your Payout Settings page.": "它必须是PayPal官方声明，并且显示与“Payout Settings”页面相同的账号持有人姓名和邮箱。",
-    "Sample of the Monthly Financial Summary": "每月财务摘要样本",
-    "Instructions how to download Monthly Financial Summary": "如何下载每月财务摘要的说明书",
-    "ID of the Beneficiary": "收款人的身份证",
-    "The ID must be valid at time of submission and provided colour photocopies or scanned copies should show biographical data pages of the document with all four edges of the document visible. Information must match the data in your Payout Profile.": "该身份证在提交时必须是有效的，并且提供的彩色影印件或扫描件应显示文档的个人资料页面，并使文档的所有四个边缘均清晰可见。信息必须与您的“Payout Profile” 中的数据匹配。(意思就是说，要提供身份证照片，该照片必须包含身份证正面，而且照片必须四角清晰可见，所以此处的文档，其实是泛指多种文件类型而已)",
-    "Utility Bill / Rental Contract": "水电费单 / 租赁合同",
-    "Only rental contract, water, gas, or electricity bills accepted. The bill should have been issued within the last 90 days and must show the name of the account holder and address of the location provided utility bill, matching the name in payout settings.": "只接受租赁合同、水费、煤气费、电费。应该是在最近90天内出具的账单，并且显示的账户持有人姓名和水电费账单的地址，必须与“payout settings”中的姓名和地址一样。",
-    "Transactions / Live Payments |": "交易：实时支付 |",
-    "Test Payments": "测试支付",
-    "Transactions /": "交易：",
-    "Live Payments": "实时支付",
-    "| Test Payments": "| 测试支付",
-    "User id": "用户id",
-    "Ref Id": "Ref id(参考id)",
-    "Transaction type": "交易类型",
-    "Pingback Status": "Pingback状态",
-    "Blocked payments": "已冻结的支付",
-    "Declined payments": "被拒绝的支付",
-    "Offers": "Offers(优惠)",
-    "Successful": "成功",
-    "Failed, will be resent": "失败，将被重新发送",
-    "Failed, will not be resent": "失败，不会被重新发送",
-    "All failed": "全部失败"
+    
+    "Project": [
+        [
+            "项目",
+            "app-project-widget .tiles a.tile:nth-child(1) tile-name"
+        ]
+    ]
+
+
+
+
+   
 }
