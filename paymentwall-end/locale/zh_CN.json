@@ -504,9 +504,227 @@
     "II. In case you use REST API:": "II. 如果你使用REST API",
     "Timezone:": [
         [
-            "时区",
+            "时区：",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .compliance .form_big .field-group__label .field-group__label-inner"
         ]
+    ],
+    "(GMT -11:00) Midway Island, Samoa":[
+        [
+            "(GMT-11:00) 萨摩亚中途岛",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Pacific/Apia']"
+        ]
+    ],
+    "(GMT -10:00) Hawaii Standard Time":[
+        [
+            "(GMTA-10:00) 夏威夷标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Pacific/Honolulu']"
+        ]
+    ],
+    "(GMT -9:00) Alaska Standard Time":[
+        [
+            "(GMT -9:00) 阿拉斯加标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Anchorage']"
+        ]
+    ],
+    "(GMT -8:00) Pacific Standard Time":[
+        [
+            "(GMT -8:00) 太平洋标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Los_Angeles']"
+        ]
+    ],
+    "(GMT -7:00) Mountain Standard Time":[
+        [
+            "(GMT -7:00) 山地标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Denver']"
+        ]
+    ],
+    "(GMT -6:00) Central Standard Time":[
+        [
+            "(GMT -6:00) 中部标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Chicago']"
+        ]
+    ],
+    "(GMT -5:00) Eastern Standard Time":[
+        [
+            "(GMT -5:00) 东部标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/New_York']"
+        ]
+    ],
+    "(GMT -4:30) Caracas":[
+        [
+            "(GMT -4:30) 加拉加斯(委内瑞拉首都)",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Caracas']"
+        ]
+    ],
+    "(GMT -4:00) Atlantic Time":[
+        [
+            "(GMT -4:00) 大西洋时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Halifax']"
+        ]
+    ],
+    "(GMT -3:00) Brazil Eastern Time":[
+        [
+            "(GMT -3:00) 巴西东部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='America/Sao_Paulo']"
+        ]
+    ],
+    "(GMT -2:00) Mid-Atlantic":[
+        [
+            "(GMT -2:00) 大西洋中部",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Atlantic/Cape_Verde']"
+        ]
+    ],
+    "(GMT -1:00) Azores":[
+        [
+            "(GMT -1:00) 亚速尔群岛",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Atlantic/Azores']"
+        ]
+    ],
+    "(GMT) UTC":[
+        [
+            "(GMT) UTC",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='UTC']"
+        ]
+    ],
+    "(GMT) Western European Time":[
+        [
+            "(GMT)西欧时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/London']"
+        ]
+    ],
+    "(GMT +1:00) European Central Time":[
+        [
+            "(GMT +1:00) 欧洲中部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/Paris']"
+        ]
+    ],
+    "(GMT +2:00) Eastern European Time":[
+        [
+            "(GMT +2:00) 东欧时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/Helsinki']"
+        ]
+    ],
+    "(GMT +2:00) Egypt Standard Time":[
+        [
+            "(GMT +2:00) 埃及标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Africa/Cairo']"
+        ]
+    ],
+    "(GMT +3:00) Moscow":[
+        [
+            "(GMT +3:00) 莫斯科时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Europe/Moscow']"
+        ]
+    ],
+    "(GMT +4:00) Near East Time":[
+        [
+            "(GMT +4:00) 近东时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Dubai']"
+        ]
+    ],
+    "(GMT +4:30) Kabul":[
+        [
+            "(GMT +4:30) 土耳其",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Kabul']"
+        ]
+    ],
+    "(GMT +5:00) Pakistan Lahore Time":[
+        [
+            "(GMT +5:00) 巴基斯坦 拉合尔时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Karachi']"
+        ]
+    ],
+    "(GMT +5:30) India Standard Time":[
+        [
+            "(GMT +5:30) 印度标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Calcutta']"
+        ]
+    ],
+    "(GMT +6:00) Bangladesh Standard Time":[
+        [
+            "(GMT +6:00) 孟加拉国标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Dhaka']"
+        ]
+    ],
+    "(GMT +7:00) Vietnam Standard Time":[
+        [
+            "(GMT +7:00) 越南标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Ho_Chi_Minh']"
+        ]
+    ],
+    "(GMT +8:00) China Taiwan Time":[
+        [
+            "(GMT +8:00) 中国台湾时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Hong_Kong']"
+        ]
+    ],
+    "(GMT +8:00) Philippine Standard Time":[
+        [
+            "(GMT +8:00) 菲丽宾标砖时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Manila']"
+        ]
+    ],
+    "(GMT +9:00) Japan Standard Time":[
+        [
+            "(GMT +9:00) 日本标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Tokyo']"
+        ]
+    ],
+    "(GMT +9:30) Australia Central Time":[
+        [
+            "(GMT +9:30) 澳大利亚中部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Australia/Adelaide']"
+        ]
+    ],
+    "(GMT +10:00) Australia Eastern Time":[
+        [
+            "(GMT +10:00) 澳大利亚东部时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Australia/Melbourne']"
+        ]
+    ],
+    "(GMT +11:00) Solomon Standard Time":[
+        [
+            "(GMT +11:00) 所罗门标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Asia/Magadan']"
+        ]
+    ],
+    "(GMT +12:00) New Zealand Standard Time":[
+        [
+            "(GMT +12:00) 新西兰标准时间",
+            "iframe[src='https://api.paymentwall.com/developers/account']",
+            ".merchant-area-v7 .compliance .form_big .field-group__line option[value='Pacific/Auckland']"
+        ]
     ]
+    
 }
