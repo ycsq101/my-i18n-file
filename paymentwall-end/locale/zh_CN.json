@@ -767,7 +767,7 @@
     "Widgets": [
         [
             "Widgets(付款页面)",
-            "app-aside.aside .aside-nav .aside-nav__list app-nav-item[slug='settings'] .aside-nav__list app-subnav-item[link='settings/widgets' a]"
+            "app-aside.aside .aside-nav .aside-nav__list app-nav-item[slug='settings'] .aside-nav__list app-subnav-item[link='settings/widgets'] a"
         ],
         [
             "Widgets(付款页面)",
