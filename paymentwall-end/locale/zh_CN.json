@@ -57,7 +57,7 @@
         ],
         [
             "概览",
-            "app-project-widget .tiles a.tile:nth-child(1) tile-name"
+            "app-project-widget .tiles a.tile:nth-child(1) .tile-name"
         ]
     ],
     "Reports": [
@@ -736,7 +736,7 @@
     "Project": [
         [
             "项目",
-            "app-project-widget .tiles a.tile:nth-child(1) tile-name"
+            "app-project-widget .tiles a.tile:nth-child(1) .tile-name"
         ]
     ]
 }
