@@ -51,28 +51,11 @@
     ],
     "All projects": "所有项目",
     "Overview": "概览",
-    "Reports": [
-        [
-            "报告",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports'] .aside-nav__list-item-link-text"
-        ]
-    ],
-    "Transactions": [
-        [
-            "交易",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/transactions']"
-        ]
-    ],
+    "Transactions": "交易",
     "Countries": [
         [
             "国家",
             ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/countries']"
-        ]
-    ],
-    "Payment Methods": [
-        [
-            "支付方式",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/payment-methods']"
         ]
     ],
     "Currencies": [
@@ -93,18 +76,6 @@
             ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/spiderpipe']"
         ]
     ],
-    "Payouts": [
-        [
-            "支出",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/payouts'] .aside-nav__list-item-link-text"
-        ]
-    ],
-    "Marketing Tools": [
-        [
-            "营销工具",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools'] .aside-nav__list-item-link-text"
-        ]
-    ],
     "Coupons": [
         [
             "优惠券",
@@ -115,12 +86,6 @@
         [
             "促销活动",
             ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/promo-campaigns']"
-        ]
-    ],
-    "Resolution Center": [
-        [
-            "解决中心",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center'] .aside-nav__list-item-link-text"
         ]
     ],
     "Chargebacks": [
@@ -730,9 +695,6 @@
     "Public key": "公钥",
     "Private key": "私钥",
     "Create new project": "创建新项目",
-
-
-
     "Set default": "设置为默认",
     "ADD NEW BUSINESS ENTITY": "增加新的Business Entity(实体商业)",
     "Business Information": "企业信息",
@@ -776,10 +738,6 @@
     "The ID must be valid at time of submission and provided colour photocopies or scanned copies should show biographical data pages of the document with all four edges of the document visible. Information must match the data in your Payout Profile.": "该身份证在提交时必须是有效的，并且提供的彩色影印件或扫描件应显示文档的个人资料页面，并使文档的所有四个边缘均清晰可见。信息必须与您的“Payout Profile” 中的数据匹配。(意思就是说，要提供身份证照片，该照片必须包含身份证正面，而且照片必须四角清晰可见，所以此处的文档，其实是泛指多种文件类型而已)",
     "Utility Bill / Rental Contract": "水电费单 / 租赁合同",
     "Only rental contract, water, gas, or electricity bills accepted. The bill should have been issued within the last 90 days and must show the name of the account holder and address of the location provided utility bill, matching the name in payout settings.": "只接受租赁合同、水费、煤气费、电费。应该是在最近90天内出具的账单，并且显示的账户持有人姓名和水电费账单的地址，必须与“payout settings”中的姓名和地址一样。",
-    
-    
-    
-    
     "Transactions / Live Payments |": "交易：实时支付 |",
     "Test Payments": "测试支付",
     "Transactions /": "交易：",
@@ -795,5 +753,29 @@
     "Successful": "成功",
     "Failed, will be resent": "失败，将被重新发送",
     "Failed, will not be resent": "失败，不会被重新发送",
-    "All failed": "全部失败"
+    "All failed": "全部失败",
+    "Activate Project": "激活项目",
+    "Project Overview": "项目概览",
+    "Project Settings": "项目设置",
+    "Payment Methods": "支付方式",
+    "Reports": "报告",
+    "Payouts": "支出",
+    "Marketing Tools": "营销工具",
+    "Resolution Center": "解决中心",
+    "Products": "Products(产品)",
+    "Regions": "Regions(地区)",
+    "Widgets": [
+        [
+            "Widgets(付款页面)",
+            "app-aside.aside .aside-nav .aside-nav__list app-nav-item[slug='settings'] .aside-nav__list app-subnav-item[link='settings/widgets' a]"
+        ],
+        [
+            "Widgets(付款页面)",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            ".merchant-area-v7 .container_app h1']"
+        ]
+    ],
+    "In HTML code please replace": "在html代码中，请替换",
+    "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id",
+    
 }
