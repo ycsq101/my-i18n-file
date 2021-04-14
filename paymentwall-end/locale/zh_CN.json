@@ -804,5 +804,8 @@
     "PNG or JPG 300x300px is recommended.": "建议使用PNG或JPG 300x300px。",
     "Save Changes": "保存变更",
     "Cancel": "取消",
-    "Examples: 1 Month Recurring Membership, Lifetime Membership, Virtual Game Item, Full version of a game": "例如:1个月的会员、终身会员、虚拟游戏、完整版的游戏等"
+    "Examples: 1 Month Recurring Membership, Lifetime Membership, Virtual Game Item, Full version of a game": "例如:1个月的会员、终身会员、虚拟游戏、完整版的游戏等",
+    "Pingback signature version": "Pingback签名版本",
+    "Please include \"http://\" in the URL":"请在网址中包含\"http://\"",
+    "Test pingback":"测试Pingback"
 }
