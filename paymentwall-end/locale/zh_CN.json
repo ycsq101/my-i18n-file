@@ -744,7 +744,7 @@
     "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id",
     "Subscriptions":[
         [
-            "Subscriptions订阅",
+            "Subscriptions(订阅)",
             "app-main app-aside.aside .aside-features li.aside-nav__list-item:nth-child(2) a span.aside-nav__list-item-link-text"
         ]
     ]
