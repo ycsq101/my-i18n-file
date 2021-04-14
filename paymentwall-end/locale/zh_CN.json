@@ -789,5 +789,30 @@
     "Public Project Name": "公开的项目名",
     "End-Users see this Project Name in email receipts.": "该名字会出现在终端用户的邮箱收据中.(收据和发票是不同的，https://zhidao.baidu.com/question/392538182.html)",
     "Project URL": "项目URL网址",
+    "Widget signature is required": "Widget付款页面签名是必选项",
+    "Evaluation mode": "评估模式",
+    "One payment per order": "一笔订单一次付款(一次性付款)",
+    "Pingback type": "Pingback类型",
+    "Custom Pingback parameters": "自定义Pingback参数",
+    "Add a custom parameter": "添加自定义参数",
+    "Get help on available parameters": "获取可用参数的帮助",
+    "Notify email":"通知邮箱",
+    "optional email to subscribe for daily statistics, which are sent at midnight CDT. ":"可选的邮箱，以用来订阅每日统计数据，这些邮件会在美国中部午夜发送。",
+    "You can set up it later at Project settings section.":"你可以在以后，到“项目设置”版块设置该选项(其实就是此处了)。",
+    "Project Logo":"项目Logo",
+    "":"这个Login将会展示在付款收据、付款页面上，从而展示给用户看到这个Login。",
+    "PNG or JPG 300x300px is recommended.":"建议使用PNG或JPG 300x300px。",
+    "Save Changes":"保存变更",
+    "Cancel":"取消",
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     "Examples: 1 Month Recurring Membership, Lifetime Membership, Virtual Game Item, Full version of a game": "例如:1个月的会员、终身会员、虚拟游戏、完整版的游戏等"
 }
