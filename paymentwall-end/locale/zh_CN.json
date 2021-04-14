@@ -54,8 +54,8 @@
     "Transactions": "交易",
     "Countries": "国家",
     "Currencies": "货币",
-    "Price Points": "Price Points(价格分数)",
-    "SpiderPipe (Gateway)": "SpiderPipe(网关)",
+    "Price Points": "Price Points（价格分数）",
+    "SpiderPipe (Gateway)": "SpiderPipe（网关）",
     "Coupons": "优惠券",
     "Promo Campaigns": "促销活动",
     "Chargebacks": "扣款",
@@ -69,7 +69,7 @@
     ],
     "Inquiries": [
         [
-            "咨询(提问)",
+            "咨询（提问）",
             "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
             ".merchant-area-v7 h1"
         ]
@@ -102,7 +102,7 @@
     ],
     "Inquiry name": [
         [
-            "Inquiry name(咨询回复)",
+            "Inquiry name（咨询回复）",
             "iframe[src='https://api.paymentwall.com/developers/help/inquiries']",
             ".merchant-area-v7 .sorting th:nth-child(4)"
         ]
@@ -283,7 +283,7 @@
     ],
     "Assigned accounts": [
         [
-            "Assigned accounts(指定账号)",
+            "Assigned accounts（指定账号）",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts a[href='https://api.paymentwall.com/developers/thirdpartyaccounts/assigned']"
         ]
@@ -393,8 +393,8 @@
             ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(1) tr:nth-child(2) th"
         ]
     ],
-    "Payment account - PayPal merchant account(Premium or Business)": "Payment account - PayPal 商家账户(Premium or Business)。",
-    "Micropayment account - PayPal account with special rates for low value transactions (e.g. amount < 12USD).": "Micropayment account - 有低利率交易特惠价的PayPal帐户(如，金额<12USD)。",
+    "Payment account - PayPal merchant account(Premium or Business)": "Payment account - PayPal 商家账户（Premium or Business）。",
+    "Micropayment account - PayPal account with special rates for low value transactions (e.g. amount < 12USD).": "Micropayment account - 有低利率交易特惠价的PayPal帐户（如，金额<12USD）。",
     "Primary e-mail:": [
         [
             "主要邮箱：",
@@ -402,8 +402,8 @@
             ".merchant-area-v7 .container #save_form .account_details table tbody:nth-child(2) tr:nth-child(1) th"
         ]
     ],
-    "PayPal primary email address(Premier/Business account).": "PayPal主要邮箱(高级 / 企业帐户)。",
-    "Enter the API Username for your Account.": "输入账号的API用户名(输入API用户名)",
+    "PayPal primary email address(Premier/Business account).": "PayPal主要邮箱（高级 / 企业帐户）。",
+    "Enter the API Username for your Account.": "输入账号的API用户名（输入API用户名）",
     "Enter the password associated with the API Username.": "输入与API用户名相关联的密码。",
     "If you are using an API signature, not an API certificate, specify the API signature associated with the API username.": "如果您使用的是API签名，而不是API证书，请指定与API用户名关联的API签名。",
     "For business accounts only. Provides limited access to your PayPal account merchant area and allows Paymentwall to dispute chargebacks and reversals on your behalf.": "仅适用于企业账户。提供对您的PayPal账户商户区域的有限访问权限，并允许Paymentwall代表您对退款和冲销进行争议。",
@@ -414,7 +414,7 @@
     "1. Log in to your PayPal account.": "1. 登录到你的PayPal账户。",
     "2. Under “My Account” tab go to “History/IPN History”.": "2. 在“My Account”之下，转到“History/IPN History”",
     "3. Click “Turn on IPN” link.": "3. 点击“Turn on IPN”链接",
-    "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "5. 点击“Receive IPN messages (Enabled)”单选按钮，来开启你的侦听器",
+    "5. Click “Receive IPN messages (Enabled)” radio button to enable your listener.": "5. 点击“Receive IPN messages （Enabled）”单选按钮，来开启你的侦听器",
     "6. Click “Save” button.": "6. 点击“保存”按钮",
     "II. In case you use REST API:": "II. 如果你使用REST API",
     "Timezone:": [
@@ -651,7 +651,7 @@
     "Private key": "私钥",
     "Create new project": "创建新项目",
     "Set default": "设置为默认",
-    "ADD NEW BUSINESS ENTITY": "增加新的Business Entity(实体商业)",
+    "ADD NEW BUSINESS ENTITY": "增加新的Business Entity（实体商业）",
     "Business Information": "企业信息",
     "In progress": "进行中",
     "Payout Information": "支出信息",
@@ -675,22 +675,22 @@
     "Beneficiary Name:": "收款人姓名：",
     "PayPal Email Address:": "PayPal邮箱账号：",
     "Add notes": "添加备注",
-    "(optional)": "(可选)",
+    "(optional)": "（可选）",
     "Numerous files can be uploaded if necessary. File format should be PDF, JPG, PNG, BMP, or TIFF. File size should not exceed 30MB.": "如果有需要，可以上传多个文件。文件格式必须是PDF, JPG, PNG, BMP, 或 TIFF。文件大小不能超过30MB。注意：其实整体下来，像是在给实体店注册+审核什么的，整体感觉PaymentWall比较像收钱吧",
     "Document Name": "文档名",
     "Date of Upload": "上传日期",
-    "Tax Form W-8BEN form certifies that the funds you receive from Paymentwall are exempt from being taxed in the United States because you pay income tax in another country. Tax Form must be filled out and hand signed by the beneficiary.": "W-8BEN纳税表格可证明您从Paymentwall收到的资金在美国可免于被征税(可免于在美国纳税)，因为你在其他国家/地区缴纳所得税。税表必须由受益人填写并亲笔签名。",
+    "Tax Form W-8BEN form certifies that the funds you receive from Paymentwall are exempt from being taxed in the United States because you pay income tax in another country. Tax Form must be filled out and hand signed by the beneficiary.": "W-8BEN纳税表格可证明您从Paymentwall收到的资金在美国可免于被征税（可免于在美国纳税），因为你在其他国家/地区缴纳所得税。税表必须由受益人填写并亲笔签名。",
     "Download Instructions": "下载说明书",
-    "Download form here": "下载表格(税表)",
+    "Download form here": "下载表格（税表）",
     "Upload": "上传",
-    "Tax Identification": "Tax Identification(税号)",
+    "Tax Identification": "Tax Identification（税号）",
     "The Tax ID must be in color, with all four edges visible, and match the data in your Payout Profile.": "税号必须是彩色的，并且所有四个边都可见，并且与“Payout Profile”中的数据匹配。",
     "Monthly Financial Summary": "每月财务摘要",
     "It must be the official PayPal statement showing the same account holder name and email address as in your Payout Settings page.": "它必须是PayPal官方声明，并且显示与“Payout Settings”页面相同的账号持有人姓名和邮箱。",
     "Sample of the Monthly Financial Summary": "每月财务摘要样本",
     "Instructions how to download Monthly Financial Summary": "如何下载每月财务摘要的说明书",
     "ID of the Beneficiary": "收款人的身份证",
-    "The ID must be valid at time of submission and provided colour photocopies or scanned copies should show biographical data pages of the document with all four edges of the document visible. Information must match the data in your Payout Profile.": "该身份证在提交时必须是有效的，并且提供的彩色影印件或扫描件应显示文档的个人资料页面，并使文档的所有四个边缘均清晰可见。信息必须与您的“Payout Profile” 中的数据匹配。(意思就是说，要提供身份证照片，该照片必须包含身份证正面，而且照片必须四角清晰可见，所以此处的文档，其实是泛指多种文件类型而已)",
+    "The ID must be valid at time of submission and provided colour photocopies or scanned copies should show biographical data pages of the document with all four edges of the document visible. Information must match the data in your Payout Profile.": "该身份证在提交时必须是有效的，并且提供的彩色影印件或扫描件应显示文档的个人资料页面，并使文档的所有四个边缘均清晰可见。信息必须与您的“Payout Profile” 中的数据匹配。（意思就是说，要提供身份证照片，该照片必须包含身份证正面，而且照片必须四角清晰可见，所以此处的文档，其实是泛指多种文件类型而已）",
     "Utility Bill / Rental Contract": "水电费单 / 租赁合同",
     "Only rental contract, water, gas, or electricity bills accepted. The bill should have been issued within the last 90 days and must show the name of the account holder and address of the location provided utility bill, matching the name in payout settings.": "只接受租赁合同、水费、煤气费、电费。应该是在最近90天内出具的账单，并且显示的账户持有人姓名和水电费账单的地址，必须与“payout settings”中的姓名和地址一样。",
     "Transactions / Live Payments |": "交易：实时支付 |",
@@ -699,12 +699,12 @@
     "Live Payments": "实时支付",
     "| Test Payments": "| 测试支付",
     "User id": "用户id",
-    "Ref Id": "Ref id(参考id)",
+    "Ref Id": "Ref id（参考id）",
     "Transaction type": "交易类型",
     "Pingback Status": "Pingback状态",
     "Blocked payments": "已冻结的支付",
     "Declined payments": "被拒绝的支付",
-    "Offers": "Offers(优惠)",
+    "Offers": "Offers（优惠）",
     "Successful": "成功",
     "Failed, will be resent": "失败，将被重新发送",
     "Failed, will not be resent": "失败，不会被重新发送",
@@ -744,7 +744,7 @@
     "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id",
     "Subscriptions": [
         [
-            "Subscriptions(订阅)",
+            "Subscriptions（订阅）",
             "app-main app-aside.aside .aside-features li.aside-nav__list-item:nth-child(2) a span.aside-nav__list-item-link-text"
         ]
     ],
@@ -766,7 +766,7 @@
     "Tuesday, January 12, 2021": "2021年1月12日，星期二",
     "Payment Coverage Update in Russia": "俄罗斯的支付地区范围更新",
     "Wednesday, January 13, 2021": "2021年1月13日，星期三",
-    "The Central Bank of Russia imposed restrictions on most local payment methods in Russia, including Yandex Money and Qiwi, suspending most types of payments to foreign companies. Following the announcement, Paymentwall will temporarily stop processing payments with Russia's local payment methods. We recommend activating FasterPay as an alternative payment method in Russia.": "俄罗斯中央银行对俄罗斯的大多数本地付款方式实施了限制(包括Yandex Money和Qiwi), 暂停了对外国公司的大多数付款方式。此公告发布后，Paymentwall将暂时停止使用俄罗斯当地的付款方式。我们建议在俄罗斯使用FasterPay作为替代支付方式。(就是说有些俄罗斯本地的支付方式，Paymentwall不支持了，建议让俄罗斯本地的人使用FasterPay这个支付方式)",
+    "The Central Bank of Russia imposed restrictions on most local payment methods in Russia, including Yandex Money and Qiwi, suspending most types of payments to foreign companies. Following the announcement, Paymentwall will temporarily stop processing payments with Russia's local payment methods. We recommend activating FasterPay as an alternative payment method in Russia.": "俄罗斯中央银行对俄罗斯的大多数本地付款方式实施了限制（包括Yandex Money和Qiwi), 暂停了对外国公司的大多数付款方式。此公告发布后，Paymentwall将暂时停止使用俄罗斯当地的付款方式。我们建议在俄罗斯使用FasterPay作为替代支付方式。（就是说有些俄罗斯本地的支付方式，Paymentwall不支持了，建议让俄罗斯本地的人使用FasterPay这个支付方式）",
     "Sunday, February 28, 2021": "2021年2月28日，星期日",
     "Your inquiry": "你的咨询",
     "was closed.": "已经被关闭。",
@@ -779,26 +779,26 @@
     "Accept kiosk payments in Thailand!": "在泰国接受自助售货机支付！",
     "Tuesday, March 23, 2021": "2021年3月23日，星期二",
     "Dear Partner, we are glad to announce that we now support payments through Boonterm Kiosk in Thailand.": "尊敬的合作伙伴：我们很高兴地宣布，我们现在支持通过泰国的Boonterm Kiosk付款了。",
-    "With multiple locations that are accessible 24/7, customers without a bank account can generate a reference code through the Paymentwall checkout, and pay in cash at any Boonterm Kiosk.": "具有多个地点可供7/24小时的使用，没有银行账户的客户可以通过Paymentwall checkout生成1个参考码，在任何一个Boonterm Kiosk中使用现金来支付。(等于是，在自主售货机使用现金支付，能够直接把钱付给Paymentwall，Paymentwall就当是收到钱了)",
+    "With multiple locations that are accessible 24/7, customers without a bank account can generate a reference code through the Paymentwall checkout, and pay in cash at any Boonterm Kiosk.": "具有多个地点可供7/24小时的使用，没有银行账户的客户可以通过Paymentwall checkout生成1个参考码，在任何一个Boonterm Kiosk中使用现金来支付。（等于是，在自主售货机使用现金支付，能够直接把钱付给Paymentwall，Paymentwall就当是收到钱了）",
     "Activate this new payment method for your project now, or contact your account manager.": "现在就为您的项目激活这个新的付款方式，或者联系您的客户经理。",
     "Monday, April 12, 2021": "2021年4月12日，星期一",
     "You have added/updated your First name.": "你已经更新了你的First name",
     "You have added/updated your Last name.": "你已经更新了你的Last name",
     "Project Name": "项目名字",
-    "This project name is visible in your Merchant Area.": "该项目名字只会在你的Merchant Area(后台)中展示。",
+    "This project name is visible in your Merchant Area.": "该项目名字只会在你的Merchant Area（后台）中展示。",
     "Public Project Name": "公开的项目名",
-    "End-Users see this Project Name in email receipts.": "该名字会出现在终端用户的邮箱收据中.(收据和发票是不同的，https://zhidao.baidu.com/question/392538182.html)",
+    "End-Users see this Project Name in email receipts.": "该名字会出现在终端用户的邮箱收据中.（收据和发票是不同的，https://zhidao.baidu.com/question/392538182.html）",
     "Project URL": "项目URL网址",
     "Widget signature is required": "Widget付款页面签名是必选项",
     "Evaluation mode": "评估模式",
-    "One payment per order": "一笔订单一次付款(一次性付款)",
+    "One payment per order": "一笔订单一次付款（一次性付款）",
     "Pingback type": "Pingback类型",
     "Custom Pingback parameters": "自定义Pingback参数",
     "Add a custom parameter": "添加自定义参数",
     "Get help on available parameters": "获取可用参数的帮助",
     "Notify email": "通知邮箱",
     "optional email to subscribe for daily statistics, which are sent at midnight CDT.": "可选的邮箱，以用来订阅每日统计数据，这些邮件会在美国中部午夜发送。",
-    "You can set up it later at Project settings section.": "你可以在以后，到“项目设置”版块设置该选项(其实就是此处了)。",
+    "You can set up it later at Project settings section.": "你可以在以后，到“项目设置”版块设置该选项（其实就是此处了）。",
     "Project Logo": "项目Logo",
     "This logo will be displayed to the end-users on payment receipt, on the payment form etc.": "这个Login将会展示在付款收据、付款页面上，从而展示给用户看到这个Login。",
     "PNG or JPG 300x300px is recommended.": "建议使用PNG或JPG 300x300px。",
@@ -808,12 +808,12 @@
     "Pingback signature version": "Pingback签名版本",
     "Please include \"http://\" in the URL": "请在网址中包含\"http://\"",
     "Test pingback": "测试Pingback",
-    "If you sell virtual currency (i.e. credits, points, coins, gold etc.)": "如果您出售虚拟货币(比如：U币、代练币、虚拟点数、积分、B站硬币等)",
+    "If you sell virtual currency (i.e. credits, points, coins, gold etc.)": "如果您出售虚拟货币（比如：U币、代练币、虚拟点数、积分、B站硬币等）",
     "A shopping cart of many products.": "许多产品的购物车",
     "The products are games that are wrapped into Digital Rights Management system. So in order to play a game you have to unlock it with a key.": "这些产品是包装在数字版权管理系统中的游戏。因此，要玩游戏，您必须用钥匙将其解锁。",
     "Defines if widget signature is required for loading the widget. Activating this setting improves security but requires additional coding": "定义加载widget付款页面是否需要widget付款页面的签名。激活此设置可提高安全性，但需要额外的编写代码。",
-    "Allows to load widget without being signed into merchant area": "允许在没有登录Merchant Area(后台)的情况下加载widget付款页面。(也就是说：默认情况下，必须商家登录了paymentwall后台，用户才能够访问付款页面，这样等于是方便了商家来检查。如：客户下单了，商家要登录下后台，然后客户才能够付钱。而开启这个选项，就可以商家不登录paymentwall后台，用户也能够打开付款页面)。",
-    "Prevent multiple payments with the same merchant_order_id. After activating this setting, if we got a request with a paid merchant_order_id, we will return 'this transaction has been paid before' message.": "防止使用同一个订单ID进行多次支付。激活此设置后，如果我们收到1个包含有“已付款的订单ID”的请求，我们会返回“this transaction has been paid before”信息(此交易之前已付款了)。",
+    "Allows to load widget without being signed into merchant area": "允许在没有登录Merchant Area（后台）的情况下加载widget付款页面。（也就是说：默认情况下，必须商家登录了paymentwall后台，用户才能够访问付款页面，这样等于是方便了商家来检查。如：客户下单了，商家要登录下后台，然后客户才能够付钱。而开启这个选项，就可以商家不登录paymentwall后台，用户也能够打开付款页面）。",
+    "Prevent multiple payments with the same merchant_order_id. After activating this setting, if we got a request with a paid merchant_order_id, we will return 'this transaction has been paid before' message.": "防止使用同一个订单ID进行多次支付。激活此设置后，如果我们收到1个包含有“已付款的订单ID”的请求，我们会返回“this transaction has been paid before”信息（此交易之前已付款了）。",
     "Virtual Currency Name, Plural": "虚拟货币名称，复数：",
     "Virtual Currency Exchange Rate:": "虚拟货币的汇率：",
     "Manage Currency Rates":"管理更多货币汇率",
