@@ -797,7 +797,7 @@
     "Add a custom parameter": "添加自定义参数",
     "Get help on available parameters": "获取可用参数的帮助",
     "Notify email": "通知邮箱",
-    "optional email to subscribe for daily statistics, which are sent at midnight CDT. ": "可选的邮箱，以用来订阅每日统计数据，这些邮件会在美国中部午夜发送。",
+    "optional email to subscribe for daily statistics, which are sent at midnight CDT.": "可选的邮箱，以用来订阅每日统计数据，这些邮件会在美国中部午夜发送。",
     "You can set up it later at Project settings section.": "你可以在以后，到“项目设置”版块设置该选项(其实就是此处了)。",
     "Project Logo": "项目Logo",
     "This logo will be displayed to the end-users on payment receipt, on the payment form etc.": "这个Login将会展示在付款收据、付款页面上，从而展示给用户看到这个Login。",
