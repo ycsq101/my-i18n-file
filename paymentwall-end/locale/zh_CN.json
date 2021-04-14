@@ -52,60 +52,15 @@
     "All projects": "所有项目",
     "Overview": "概览",
     "Transactions": "交易",
-    "Countries": [
-        [
-            "国家",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/countries']"
-        ]
-    ],
-    "Currencies": [
-        [
-            "币种",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/currencies']"
-        ]
-    ],
-    "Price Points": [
-        [
-            "价格点数",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/price-points']"
-        ]
-    ],
-    "SpiderPipe (Gateway)": [
-        [
-            "SpiderPipe(网关)",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/reports/spiderpipe']"
-        ]
-    ],
-    "Coupons": [
-        [
-            "优惠券",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/coupons']"
-        ]
-    ],
-    "Promo Campaigns": [
-        [
-            "促销活动",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/marketing-tools/promo-campaigns']"
-        ]
-    ],
-    "Chargebacks": [
-        [
-            "扣款",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/chargebacks']"
-        ]
-    ],
-    "Messaging Center": [
-        [
-            "消息中心",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/messaging-center']"
-        ]
-    ],
-    "Research and Refund": [
-        [
-            "研究与退款",
-            ".aside__wrapper .aside-nav .aside-nav__list li a[href='/developers/merchant/projects/resolution-center/research-and-refund']"
-        ]
-    ],
+    "Countries": "国家",
+    "Currencies": "货币",
+    "Price Points": "Price Points(价格分数)",
+    "SpiderPipe (Gateway)": "SpiderPipe(网关)",
+    "Coupons": "优惠券",
+    "Promo Campaigns": "促销活动",
+    "Chargebacks": "扣款",
+    "Messaging Center": "消息中心",
+    "Research and Refund": "研究与退款",
     "Hide Sidebar": [
         [
             "隐藏侧边栏",
@@ -762,20 +717,39 @@
     "Payouts": "支出",
     "Marketing Tools": "营销工具",
     "Resolution Center": "解决中心",
-    "Products": "Products(产品)",
-    "Regions": "Regions(地区)",
+    "Products": "商品",
+    "Regions": [
+        [
+            "地区设置",
+            "app-aside.aside .aside-nav .aside-nav__list app-nav-item[slug='settings'] .aside-nav__list app-subnav-item[link='settings/regions'] a"
+        ],
+        [
+            "地区设置",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            ".merchant-area-v7 .container_app h1']"
+        ]
+    ],
     "Widgets": [
         [
-            "Widgets(付款页面)",
+            "付款页面",
             "app-aside.aside .aside-nav .aside-nav__list app-nav-item[slug='settings'] .aside-nav__list app-subnav-item[link='settings/widgets'] a"
         ],
         [
-            "Widgets(付款页面)",
+            "付款页面",
             "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
             ".merchant-area-v7 .container_app h1']"
         ]
     ],
     "In HTML code please replace": "在html代码中，请替换",
-    "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id"
+    "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id",
+    "Subscriptions":[
+        [
+            "Subscriptions订阅",
+            "app-main app-aside.aside .aside-features li.aside-nav__list-item:nth-child(2) a span.aside-nav__list-item-link-text"
+        ]
+    ]
+
+
+
 
 }
