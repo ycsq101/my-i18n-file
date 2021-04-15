@@ -698,7 +698,6 @@
     "Pingback Status": "Pingback状态",
     "Blocked payments": "已冻结的支付",
     "Declined payments": "被拒绝的支付",
-    "Offers": "Offers（优惠）",
     "Successful": "成功",
     "Failed, will be resent": "失败，将被重新发送",
     "Failed, will not be resent": "失败，不会被重新发送",
@@ -967,5 +966,26 @@
     "Subscription, selected by default": "Subscription订阅，默认选中",
     "Subscription, marked with 'Most Popular' tag": "Subscription订阅，标记'Most Popular'这个标签",
     "Subscription, marked with 'Best Value' tag": "Subscription订阅，标记'Best Value'这个标签",
-    "Order in which subscriptions will be displayed": "显示Subscription订阅的顺序"
+    "Order in which subscriptions will be displayed": "显示Subscription订阅的顺序",
+    "Direct payments":[
+        [
+            "Direct payments(直接支付)",
+            "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
+            ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.type option[value='direct']"
+        ]
+    ],
+    "Mobile payments":[
+        [
+            "Mobile payments(移动支付)",
+            "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
+            ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.type option[value='mobile']"
+        ]
+    ],
+    "Offers": [
+        [
+            "Offers(优惠)",
+            "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
+            ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.type option[value='offers']"
+        ]
+    ]
 }
