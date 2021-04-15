@@ -916,7 +916,7 @@
             ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(5) a"
         ]
     ],
-    "Recurring billing *": "Recurring billing(循环计费)*",
+    "Recurring billing *": "Recurring billing(循环计费) *",
     "Trial": [
         [
             "订阅试用",
