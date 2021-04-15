@@ -872,7 +872,7 @@
     "Europe:": "欧洲：",
     "Default:": "默认：",
     "+ Add new product": "+ 添加新产品",
-    "Recurring billing": "Recurring billing：",
+    "Recurring billing": "Recurring billing",
     "is possible for time based products that last less than a year. Not all payment systems support recurring billing, thus it will be used where it's possible.": "对于基于时间的产品，并且持续时间少于一年，则可以进行定期循环计费。并非所有的payment systems都支持recurring billing(循环计费)，因为它会在可能的情况下，才会被使用。",
     "Show products for:": "显示产品：",
     "Type": [
@@ -898,7 +898,7 @@
         [
             "管理区域",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
-            ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.manage_regions"
+            ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.manage_regions label a"
         ]
     ],
     "Product name": "产品名称",
@@ -950,5 +950,22 @@
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(18) a"
         ]
-    ]
+    ],
+    "Time based": "按时间计算",
+    "Fixed": "固定的",
+    "Whether subscription is active or not": "subscription订阅是否有效",
+    "Subscription name, i.e. Membership": "Subscription订阅名称，例如：Membership(会员)",
+    "Subscription type": "订阅类型",
+    "Period length": "时间长度",
+    "Trial subscription": "试用订阅",
+    "Post-trial subscription": "试用后订阅",
+    "This is your own identifier of the product": "这是您自己的产品标识符",
+    "Price without discount": "不含折扣的价格",
+    "Price with discount": "包含折扣的价格",
+    "Show discount message, calculated based on full and discounted price, or not. i.e. Save 15%": "是否显示基于全价和折扣价计算的折扣提示，例如显示：Save 15%",
+    "Additional incentivization for users, i.e. 'One month FREE'": "对用户提供额外的奖励措施，例如：'One month FREE(1个月免费)'",
+    "Subscription, selected by default": "Subscription订阅，默认选中",
+    "Subscription, marked with 'Most Popular' tag": "Subscription订阅，标记'Most Popular'这个标签",
+    "Subscription, marked with 'Best Value' tag": "Subscription订阅，标记'Best Value'这个标签",
+    "Order in which subscriptions will be displayed": "显示Subscription订阅的顺序"
 }
