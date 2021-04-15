@@ -884,6 +884,11 @@
             "收款类型",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(3) a"
+        ],
+        [
+            "付款页面类型",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            ".merchant-area-v7 .container_app .box3 .table1 thead th:nth-child(3)"
         ]
     ],
     "Only active": [
@@ -967,14 +972,14 @@
     "Subscription, marked with 'Most Popular' tag": "Subscription订阅，标记'Most Popular'这个标签",
     "Subscription, marked with 'Best Value' tag": "Subscription订阅，标记'Best Value'这个标签",
     "Order in which subscriptions will be displayed": "显示Subscription订阅的顺序",
-    "Direct payments":[
+    "Direct payments": [
         [
             "Direct payments(直接支付)",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.type option[value='direct']"
         ]
     ],
-    "Mobile payments":[
+    "Mobile payments": [
         [
             "Mobile payments(移动支付)",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
@@ -986,6 +991,57 @@
             "Offers(优惠)",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.type option[value='offers']"
+        ]
+    ],
+    " + Add new widget": " + 增加新的付款页面",
+    "Product": [
+        [
+            "付款页面",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            ".merchant-area-v7 .container_app .box3 .table1 thead th:nth-child(2)"
+        ]
+    ],
+    "Show deleted widgets": "显示已删除的widget付款页面",
+    "Hide deleted widgets": "隐藏已删除的widget付款页面",
+    "Preview Widget": "预览Widget付款页面",
+    "Restore defaults": "恢复默认值",
+    "Apply random colors": "应用随机颜色",
+    "General colors": "常规颜色",
+    "Text & titles": "文字 & 标题",
+    "Control elements": "控制元素",
+    "Inputs": "Inputs表单",
+    "Primary button": "主按钮",
+    "Primary button :hover": "主按钮:hover",
+    "Primary button :inactive": "主按钮:active",
+    "Primary button text": "主按钮的文字",
+    "Background inside widget": "付款页面inside的背景色",
+    "Background around widget": "付款页面around的背景色",
+    "Titles": [
+        [
+            "标题",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            "#widget_customization_container #widget_form .floatl .widget_settings2 .paletteList .colortable div:nth-child(4) .palleteBoxDiv:nth-child(1)"
+        ]
+    ],
+    "Text": [
+        [
+            "文本",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            "#widget_customization_container #widget_form .floatl .widget_settings2 .paletteList .colortable div:nth-child(4) .palleteBoxDiv:nth-child(2)"
+        ]
+    ],
+    "Merchant name": [
+        [
+            "商户名称",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            "#widget_customization_container #widget_form .floatl .widget_settings2 .paletteList .colortable div:nth-child(4) .palleteBoxDiv:nth-child(3)"
+        ]
+    ],
+    "Order description": [
+        [
+            "订单描述",
+            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            "#widget_customization_container #widget_form .floatl .widget_settings2 .paletteList .colortable div:nth-child(4) .palleteBoxDiv:nth-child(4)"
         ]
     ]
 }
