@@ -726,7 +726,7 @@
         [
             "地区设置",
             "iframe[src^='https://api.paymentwall.com/developers/regions?app=']",
-            ".merchant-area-v7 .container_app h1']"
+            ".merchant-area-v7 .container_app h1"
         ]
     ],
     "Widgets": [
@@ -737,7 +737,7 @@
         [
             "付款页面",
             "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
-            ".merchant-area-v7 .container_app h1']"
+            ".merchant-area-v7 .container_app h1"
         ]
     ],
     "In HTML code please replace": "在html代码中，请替换",
