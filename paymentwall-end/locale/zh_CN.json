@@ -205,13 +205,7 @@
             ".merchant-area-v7 .compliance .information__section #js-hide-password"
         ]
     ],
-    "Save": [
-        [
-            "保存",
-            "iframe[src='https://api.paymentwall.com/developers/account']",
-            ".merchant-area-v7 .compliance .information__footer button.compliance-button"
-        ]
-    ],
+    "Save": "保存",
     "Account settings have been saved.": "账号设置已被保存",
     "What do you want to see in your Merchant Area": "你想在你的商户区域看到什么",
     "Payout document not approved": "Payout document未获批准",
@@ -864,6 +858,18 @@
     "User IP address": "用户IP地址",
     "Country code of the payment account, e.g. bank account country or CC BIN country": "支付账号的国家代码，例如：银行账号的国家或者CC BIN国家",
     "Virtual currency amount received by end-user": "终端用户收到的虚拟机货币数量",
-    "Virtual currency amount without bonuses and discounts": "没有奖金和折扣的虚拟货币数量"
+    "Virtual currency amount without bonuses and discounts": "没有奖金和折扣的虚拟货币数量",
+    "Set up regions to quickly use in various tools.": "设置区域，以便在各种工具中快速使用。",
+    "1. Select region": "1. 选择区域",
+    "2. Add countries to selected region": "2. 将国家添加到选定区域",
+    "+ Add new region": "+ 添加新区域",
+    "Set default regions": "设置默认区域",
+    "Countries without region": "不含区域的国家",
+    "Add new region": "增加新区域",
+    "Region name: ": "区域名称：",
+    "Set to default regions": "设置为默认区域",
+    "If you click Set, regions you set up will be replaced with our default regions list which you can see below. Please note that your Virtual Currency Prices / Subscription settings might be overwritten.": "如果您点击底部的SET按钮，您所设置的区域将被我们的默认区域列表所取代，您可以看到以下内容。请注意，您的虚拟货币价格/Subscription settings(订阅设置)可能会被覆盖。",
+    "Europe:": "欧洲：",
+    "Default:": "默认：",
+    ""
 }
-
