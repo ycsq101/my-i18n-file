@@ -725,7 +725,7 @@
         ],
         [
             "地区设置",
-            "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
+            "iframe[src^='https://api.paymentwall.com/developers/regions?app=']",
             ".merchant-area-v7 .container_app h1']"
         ]
     ],
