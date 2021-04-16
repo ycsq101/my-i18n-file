@@ -706,6 +706,7 @@
     "Project Overview": "项目概览",
     "Project Settings": "项目设置",
     "Payment Methods": "支付方式",
+    "Payment methods": "支付方式",
     "Reports": "报告",
     "Payouts": "支出",
     "Marketing Tools": "营销工具",
@@ -1043,5 +1044,18 @@
             "iframe[src^='https://api.paymentwall.com/developers/widgets?a_id=']",
             "#widget_customization_container #widget_form .floatl .widget_settings2 .paletteList .colortable div:nth-child(4) .palleteBoxDiv:nth-child(4)"
         ]
-    ]
+    ],
+    "Credit Cards": "信用卡",
+    "Alternative Payments": "替代支付",
+    "Gateway to connect your payment accounts": "连接您的付款帐户的网关",
+    "Bank Transfers": "银行转账",
+    "eWallets": [
+        [
+            "电子钱包",
+            ".app-project .container app-payment-methods app-payment-methods-widget .panel-group accordion-group:nth-child(2) .panel-collapse .accordion-body app-payment-methods-subgroup:nth-child(2) .payment-methods-group-title .payment-methods-group-title__name"
+        ]
+    ],
+    "Cash and Prepaid":"现金和预付",
+    "Direct Carrier Billing":"直接运营商扣费"
+
 }
