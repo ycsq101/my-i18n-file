@@ -1049,13 +1049,8 @@
     "Alternative Payments": "替代支付",
     "Gateway to connect your payment accounts": "连接您的付款帐户的网关",
     "Bank Transfers": "银行转账",
-    "eWallets": [
-        [
-            "电子钱包",
-            ".app-project .container app-payment-methods app-payment-methods-widget .panel-group accordion-group:nth-child(2) .panel-collapse .accordion-body app-payment-methods-subgroup:nth-child(2) .payment-methods-group-title .payment-methods-group-title__name"
-        ]
-    ],
-    "Cash and Prepaid":"现金和预付",
-    "Direct Carrier Billing":"直接运营商扣费"
-
+    "eWallets": "电子钱包",
+    "Cash and Prepaid": "现金和预付",
+    "Direct Carrier Billing": "直接运营商扣费",
+    "Coverage": "覆盖范围"
 }
