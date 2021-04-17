@@ -1334,13 +1334,7 @@
     "Eastern Europe": "东欧",
     "Balkan Countries": "巴尔干国家",
     "Arabic Countries": "阿拉伯国家",
-    "Rest": [
-        [
-            "其余",
-            "iframe[src^='https://api.paymentwall.com/developers/reports/payment-systems/?search[id]=']",
-            ".merchant-area-v7 .container .panel #params_form .payment_sys tbody td.country optgroup:last-child"
-        ]
-    ],
+    "Rest": "其余",
     "January": "一月",
     "February": "二月",
     "March": "三月",
