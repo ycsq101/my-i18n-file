@@ -992,6 +992,18 @@
             "Offers(优惠)",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options tbody td.type option[value='offers']"
+        ],
+        [
+            "Offers(优惠)",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/transactions/?search[id]=']",
+            ".merchant-area-v7 .container #search_and_csv .transactions_table tbody .transaction_type option[value='offers']"
+        ]
+    ],
+    "Payments": [
+        [
+            "普通支付",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/transactions/?search[id]=']",
+            ".merchant-area-v7 .container #search_and_csv .transactions_table tbody .transaction_type option[value='payments']"
         ]
     ],
     " + Add new widget": " + 增加新的付款页面",
@@ -1186,5 +1198,14 @@
     "Uzbekistan": "乌兹别克斯坦",
     "Vietnam": "越南",
     "Virgin Islands (U.K.)": "维尔京群岛(英国)",
-    "Wallis and Futuna Islands": "瓦利斯和富图纳群岛"
+    "Wallis and Futuna Islands": "瓦利斯和富图纳群岛",
+    "This report shows payment transactions.": "此报告显示的是付款交易",
+    "There was no activity during selected time frame": "在选定的事件范围内没有交易活动",
+    "Users": "用户",
+    "Users distribution": "用户分布情况",
+    "This report shows Gender, Age and Countries distribution of users": "本报告显示了用户的性别、年龄和国家分布。",
+    "Distribution by": "分布依据",
+    "For payments clicks equal impressions / For offers impressions equal the number of offers viewed": "对于付款，点击数等于impressions(印象数)。对于优惠，impressions(印象数)等于优惠被浏览次数。(就是说点击数越高，印象数就越高。优惠被浏览器次数越高，印象数就越高。)",
+    "This report shows Revenue and Users distribution by country": "本报告显示了各各国家的收入(收款)和用户分布情况",
+    "Revenue": "收入"
 }
