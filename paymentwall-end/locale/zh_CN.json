@@ -91,6 +91,11 @@
             "状态",
             "iframe[src='https://api.paymentwall.com/developers/account']",
             ".merchant-area-v7 .spiderpipe-accounts table#accounts_list thead th:nth-child(1) a"
+        ],
+        [
+            "状态",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
+            ".merchant-area-v7 .container .panel .mob_table thead td:nth-child(4)"
         ]
     ],
     "Submitted": [
@@ -306,6 +311,11 @@
             "支付方式",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
             ".merchant-area-v7 .container .panel .direct_payment thead td:nth-child(2)"
+        ],
+        [
+            "支付方式",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
+            ".merchant-area-v7 .container .panel .mob_table thead td:nth-child(1)"
         ]
     ],
     "Account": [
@@ -318,13 +328,24 @@
             "账号",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
             ".merchant-area-v7 .container .panel .direct_payment thead td:nth-child(3)"
+        ],
+        [
+            "账号",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
+            ".merchant-area-v7 .container .panel .mob_table thead td:nth-child(2)"
         ]
     ],
+    "Receipt #":"收据 #",
     "Month from":[
         [
             "起始月份",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
             ".merchant-area-v7 .container .panel .direct_payment thead td:nth-child(4)"
+        ],
+        [
+            "起始月份",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
+            ".merchant-area-v7 .container .panel .revenue_table thead td:nth-child(2)"
         ]
     ],
     "Month to":[
@@ -332,6 +353,11 @@
             "终止月份",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
             ".merchant-area-v7 .container .panel .direct_payment thead td:nth-child(5)"
+        ],
+        [
+            "终止月份",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
+            ".merchant-area-v7 .container .panel .revenue_table thead td:nth-child(3)"
         ]
     ],
     "Account Type": [
@@ -1391,9 +1417,10 @@
     "SpiderPipe accounts":"SpiderPipe账户",
     "Receipts":[
         [
-            "收据",
+            "发票",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
             ".merchant-area-v7 .container .tabs a:nth-child(3)"
         ]
-    ]
+    ],
+    "This report shows invoices by months.":"该报告按月份显示发票。"
 }
