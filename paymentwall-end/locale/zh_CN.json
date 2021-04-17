@@ -1324,13 +1324,36 @@
     "Western Samoa": "西萨摩亚",
     "Yemen": "也门",
     "Zambia": "赞比亚",
-    "Zimbabwe": "津巴布韦"
-
-
-
-
-
-
-
-    
+    "Zimbabwe": "津巴布韦",
+    "English Speaking Countries": "说英语的国家",
+    "Western Europe": "西欧",
+    "Nordic / Baltic Europe": "北欧/波罗的海",
+    "South America": "南美洲",
+    "South East Asia": "东南亚",
+    "Chinese Speaking Countries": "说中文的国家",
+    "Eastern Europe": "东欧",
+    "Balkan Countries": "巴尔干国家",
+    "Arabic Countries": "阿拉伯国家",
+    "Rest": [
+        [
+            "其余",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/payment-systems/?search[id]=']",
+            ".merchant-area-v7 .container .panel #params_form .payment_sys tbody td.country optgroup:last-child"
+        ]
+    ],
+    "January": "一月",
+    "February": "二月",
+    "March": "三月",
+    "April": "四月",
+    "May": "五月",
+    "June": "六月",
+    "July": "七月",
+    "August": "八月",
+    "September": "九月",
+    "October": "十月",
+    "November": "十一月",
+    "December": "十二月",
+    "Today": "今天",
+    "Clear": "清除",
+    "This report shows revenues in local currencies. Figures in the \"Estimated Revenue in $\" column can vary due to currency exchange rates fluctuations.":"此报告显示本地货币的收入。由于货币汇率波动，“$”列中的“$”的数据可能有所不同。"
 }
