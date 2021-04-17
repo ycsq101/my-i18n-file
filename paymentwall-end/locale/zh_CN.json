@@ -336,30 +336,8 @@
         ]
     ],
     "Receipt #": "收据 #",
-    "Month from": [
-        [
-            "起始月份",
-            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
-            ".merchant-area-v7 .container .panel .direct_payment thead td:nth-child(4)"
-        ],
-        [
-            "起始月份",
-            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
-            ".merchant-area-v7 .container .panel .revenue_table thead td:nth-child(2)"
-        ]
-    ],
-    "Month to": [
-        [
-            "终止月份",
-            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
-            ".merchant-area-v7 .container .panel .direct_payment thead td:nth-child(5)"
-        ],
-        [
-            "终止月份",
-            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
-            ".merchant-area-v7 .container .panel .revenue_table thead td:nth-child(3)"
-        ]
-    ],
+    "Month from": "起始月份",
+    "Month to": "终止月份",
     "Account Type": [
         [
             "账号类型",
@@ -1432,6 +1410,41 @@
         ]
     ],
     ". You can also email": "。您可以发送电子邮件至：",
-    "with any questions about our direct payment accounts processing solution.": "，如果您对我们的直接付款账户处理方案有任何疑问",
-    "If your earnings from alternative payment methods exceed Paymentwall fees for direct payment accounts processing, we will automatically deduct the latter from your scheduled payouts.": "如果你来自其他支付方式的收入，超出了直接付款账户处理的PaymentWall费用，我们会自动从你的预定付款中扣除后者。"
+    "with any questions about our direct payment accounts processing solution.": "，如果您对我们的直接付款账户处理方案有任何疑问。",
+    "If your earnings from alternative payment methods exceed Paymentwall fees for direct payment accounts processing, we will automatically deduct the latter from your scheduled payouts.": "如果你来自其他支付方式的收入，超出了直接付款账户处理的PaymentWall费用，我们会自动从你的预定付款中扣除后者。",
+    "This report shows Net Revenues earned each month and their payout schedule. ": "此报告显示了每月赚取的净收入及其支出时间表。",
+    "New Payout Report": "新支出报告",
+    "+ New Coupon": "+ 增加新的优惠券",
+    "What are coupons?": "什么是优惠券？",
+    "There are no coupons.": "还未存在优惠券。",
+    "Coupon Code": "优惠码",
+    "Expiration date from": "有效期从",
+    "Expiration date to": "有效期至",
+    "Active": [
+        [
+            "有效性",
+            "iframe[src='https://api.paymentwall.com/developers/coupons']",
+            ".merchant-area-v7 .container .panel tbody tr:nth-child(1) td:nth-child(1)"
+        ],
+        [
+            "有效",
+            "iframe[src='https://api.paymentwall.com/developers/coupons']",
+            ".merchant-area-v7 .container .panel tbody tr:nth-child(2) td:nth-child(1) option:nth-child(2)"
+        ]
+    ],
+    "Expired": "已过期",
+    "Non active": "无效",
+    "Coupons provide discounted pricing options to stimulate customer purchasing behavior. You can use Coupons to reward users who’ve won in-game contests, drive new sign-ups by setting up promotional pricing for the first X number of users, or stimulate returning users who've already made a purchase.": "优惠券提供了优惠的价格选项，以刺激客户的购买行为。您可以使用优惠券来奖励赢得游戏内竞赛的用户，通过为前X名用户设置促销价格来推动新注册用户，或者刺激已经购买的老用户。",
+    "Coupons are supported only by p1, p4 and p10 widgets": "优惠券仅支持p1、p4和p10的widget付款页面。",
+    "Getting Started with Coupons": "开始使用优惠券",
+    "Integrating Coupons is quick and easy. From the “Marketing Tools” menu on the left pane of your Paymentwall merchant area, just click on the “Coupons” button, select “New Coupon,” and you’re ready to create your first coupon.": "整合优惠券是快速和简单的。从您的Paymentwall商家区域左侧窗格的\"营销工具\"菜单中，只需点击\"优惠券\"按钮，然后点击\"+ 增加新的优惠券\"按钮，就可以创建您的第一张优惠券了。",
+    "Setting up a new campaign:": "设置一个新的活动：",
+    "Name your coupon in the “Coupon Name” field (optional).": "填写“Coupon Name”字段，给优惠券起个名字(可选)。",
+    "Create a coupon code. We recommend 6 symbols, containing both letters and numbers, e.g. MYCPN1": "创建一个优惠券码。我们推荐使用6个符号，包含字母和数字，例如：MYCPN1。",
+    "If you choose to leave this field empty we will generate a discount code automatically.": "如果您选择将此字段留空，不写上面这个优惠码字段，我们将会自动生成1个随机优惠码。",
+    "Choose the type of discount you’d like to offer.": "选择你想提供的折扣类型(优惠类型)。",
+    "Choose the number of redemptions. For example, if you enter \"100\" the coupon will no longer be valid after 100 redemptions. Select multiple redemptions for unlimited coupon use.": "选择兑换次数。例如，如果您输入 \"100\"，优惠券将在100次兑换后不再有效。选择多次兑换，可无限次使用优惠券。",
+    "Set the coupon expiration date. You can select \"Never\", if you want the coupon to remain active indefinitely.": "设置优惠券的有效期。如果您想让优惠券无限期地保持有效，可以选择 \"永不\"。",
+    "Select \"Right Now\" in the Activate field, or select a future date for the promotion to begin.": "在“Active”字段中选择“Right Now”，代表立即开始促销活动，或为促销开始选择1个将来的日期，进行指定日期开始促销活动。",
+    "Share your coupon code with users.": "与用户共享您的优惠券代码。"
 }
