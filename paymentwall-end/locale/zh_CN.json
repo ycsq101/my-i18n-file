@@ -335,8 +335,8 @@
             ".merchant-area-v7 .container .panel .mob_table thead td:nth-child(2)"
         ]
     ],
-    "Receipt #":"收据 #",
-    "Month from":[
+    "Receipt #": "收据 #",
+    "Month from": [
         [
             "起始月份",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
@@ -348,7 +348,7 @@
             ".merchant-area-v7 .container .panel .revenue_table thead td:nth-child(2)"
         ]
     ],
-    "Month to":[
+    "Month to": [
         [
             "终止月份",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
@@ -1413,14 +1413,25 @@
     "Clear": "清除",
     "This report shows revenues in local currencies. Figures in the \"Estimated Revenue in $\" column can vary due to currency exchange rates fluctuations.": "此报告显示本地货币的收入。由于货币汇率波动，“$”列中的“$”的数据可能有所不同。",
     "This report shows details about Price Points (Clicks, Conversions, Revenue) for selected payment system, widget and country": "本报告显示了有关支付方法、widget付款页面、国家的Price Points价格点(Clicks, Conversions, Revenue)。意思就是说：根据指定的支付方式、付款页面、国家，生成1个Price Points价格点的报告，该报告中包含Clicks、Conversions、Revenu",
-    "Billing schedule":"账单时间表",
-    "SpiderPipe accounts":"SpiderPipe账户",
-    "Receipts":[
+    "Billing schedule": "账单时间表",
+    "SpiderPipe accounts": "SpiderPipe账户",
+    "Receipts": [
         [
-            "发票",
+            "收据",
             "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
             ".merchant-area-v7 .container .tabs a:nth-child(3)"
         ]
     ],
-    "This report shows invoices by months.":"该报告按月份显示发票。"
+    "This report shows invoices by months.": "该报告按月份显示发票。",
+    "The current list of services we provide can be seen by": "我们目前所提供的服务列表, 可以",
+    "clicking here": [
+        [
+            "点击此处查看",
+            "iframe[src^='https://api.paymentwall.com/developers/reports/thirdparty-revenue/?search[id]=']",
+            ".merchant-area-v7 .container>p a:nth-child(1)"
+        ]
+    ],
+    ". You can also email": "您可以发送电子邮件至：",
+    "with any questions about our direct payment accounts processing solution.": "，如果您对我们的直接付款账户处理方案有任何疑问",
+    "If your earnings from alternative payment methods exceed Paymentwall fees for direct payment accounts processing, we will automatically deduct the latter from your scheduled payouts.": "如果你来自其他支付方式的收入，超出了直接付款账户处理的PaymentWall费用，我们会自动从你的预定付款中扣除后者。"
 }
