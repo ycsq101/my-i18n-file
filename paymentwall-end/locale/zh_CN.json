@@ -1431,7 +1431,7 @@
             ".merchant-area-v7 .container>p a:nth-child(1)"
         ]
     ],
-    ". You can also email": "您可以发送电子邮件至：",
+    ". You can also email": "。您可以发送电子邮件至：",
     "with any questions about our direct payment accounts processing solution.": "，如果您对我们的直接付款账户处理方案有任何疑问",
     "If your earnings from alternative payment methods exceed Paymentwall fees for direct payment accounts processing, we will automatically deduct the latter from your scheduled payouts.": "如果你来自其他支付方式的收入，超出了直接付款账户处理的PaymentWall费用，我们会自动从你的预定付款中扣除后者。"
 }
