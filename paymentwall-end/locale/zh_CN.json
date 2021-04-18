@@ -1486,6 +1486,6 @@
             "iframe[src='https://api.paymentwall.com/developers/coupons']",
             ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(5) td table tbody td:nth-child(2) option:nth-child(2)"
         ]
-    ],
-    
+    ]
+
 }
