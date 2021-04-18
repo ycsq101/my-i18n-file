@@ -1412,7 +1412,7 @@
     ". You can also email": "。您可以发送电子邮件至：",
     "with any questions about our direct payment accounts processing solution.": "，如果您对我们的直接付款账户处理方案有任何疑问。",
     "If your earnings from alternative payment methods exceed Paymentwall fees for direct payment accounts processing, we will automatically deduct the latter from your scheduled payouts.": "如果你来自其他支付方式的收入，超出了直接付款账户处理的PaymentWall费用，我们会自动从你的预定付款中扣除后者。",
-    "This report shows Net Revenues earned each month and their payout schedule. ": "此报告显示了每月赚取的净收入及其支出时间表。",
+    "This report shows Net Revenues earned each month and their payout schedule.": "此报告显示了每月赚取的净收入及其支出时间表。",
     "New Payout Report": "新支出报告",
     "+ New Coupon": "+ 增加新的优惠券",
     "What are coupons?": "什么是优惠券？",
@@ -1446,5 +1446,46 @@
     "Choose the number of redemptions. For example, if you enter \"100\" the coupon will no longer be valid after 100 redemptions. Select multiple redemptions for unlimited coupon use.": "选择兑换次数。例如，如果您输入 \"100\"，优惠券将在100次兑换后不再有效。选择多次兑换，可无限次使用优惠券。",
     "Set the coupon expiration date. You can select \"Never\", if you want the coupon to remain active indefinitely.": "设置优惠券的有效期。如果您想让优惠券无限期地保持有效，可以选择 \"永不\"。",
     "Select \"Right Now\" in the Activate field, or select a future date for the promotion to begin.": "在“Active”字段中选择“Right Now”，代表立即开始促销活动，或为促销开始选择1个将来的日期，进行指定日期开始促销活动。",
-    "Share your coupon code with users.": "与用户共享您的优惠券代码。"
+    "Share your coupon code with users.": "与用户共享您的优惠券代码。",
+    "Managing Active Coupons": "管理有效的优惠券",
+    "You can view active and inactive coupons on the “Coupons” page. To revise active coupons, you’ll have to create a new coupon and delete the old one.": "您可以在“优惠券”页面上查看有效和无效的优惠券。要修改有效的优惠券，您必须创建一个新的优惠券并删除旧的优惠券。",
+    "Discount *": "折扣类型*",
+    "Percent off": "百分比折扣",
+    "Amount off": "折扣金额",
+    "Promo Tool": "促销工具",
+    "Project(s) *": "指定项目 *",
+    "Max redemptions *": "Max redemptions(优惠券最多使用次数) *",
+    "Unlimited": "无限制",
+    "Expiration date *": "失效日期 *",
+    "Never": [
+        [
+            "用不失效",
+            "iframe[src='https://api.paymentwall.com/developers/coupons']",
+            ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(6) table tbody>tr td:nth-child(2)"
+        ]
+    ],
+    "Activate": "启动",
+    "Right now": [
+        [
+            "立即启动",
+            "iframe[src='https://api.paymentwall.com/developers/coupons']",
+            ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(7) td"
+        ]
+    ],
+    "Later": "以后启动",
+    "Overall": [
+        [
+            "整体(即一共可使用几次)",
+            "iframe[src='https://api.paymentwall.com/developers/coupons']",
+            ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(5) td table tbody td:nth-child(2) option:nth-child(1)"
+        ]
+    ],
+    "Per user": [
+        [
+            "每个用户(即1位用户最多用几次)",
+            "iframe[src='https://api.paymentwall.com/developers/coupons']",
+            ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(5) td table tbody td:nth-child(2) option:nth-child(2)"
+        ]
+    ],
+    
 }
