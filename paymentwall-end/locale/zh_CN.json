@@ -1441,7 +1441,7 @@
     "Setting up a new campaign:": "设置一个新的活动：",
     "Name your coupon in the “Coupon Name” field (optional).": "填写“Coupon Name”字段，给优惠券起个名字(可选)。",
     "Create a coupon code. We recommend 6 symbols, containing both letters and numbers, e.g. MYCPN1": "创建一个优惠券码。我们推荐使用6个符号，包含字母和数字，例如：MYCPN1。",
-    "If you choose to leave this field empty we will generate a discount code automatically.": "如果您选择将此字段留空，不写上面这个优惠码字段，我们将会自动生成1个随机优惠码。",
+    "If you choose to leave this field empty we’ll generate a discount code automatically.": "如果您选择将此字段留空，不写上面这个优惠码字段，我们将会自动生成1个随机优惠码。",
     "Choose the type of discount you’d like to offer.": "选择你想提供的折扣类型(优惠类型)。",
     "Choose the number of redemptions. For example, if you enter \"100\" the coupon will no longer be valid after 100 redemptions. Select multiple redemptions for unlimited coupon use.": "选择兑换次数。例如，如果您输入 \"100\"，优惠券将在100次兑换后不再有效。选择多次兑换，可无限次使用优惠券。",
     "Set the coupon expiration date. You can select \"Never\", if you want the coupon to remain active indefinitely.": "设置优惠券的有效期。如果您想让优惠券无限期地保持有效，可以选择 \"永不\"。",
@@ -1454,7 +1454,7 @@
     "Amount off": "折扣金额",
     "Promo Tool": "促销工具",
     "Project(s) *": "指定项目 *",
-    "Max redemptions *": "Max redemptions(优惠券最多使用次数) *",
+    "Max redemptions *": "优惠券最多使用次数 *",
     "Unlimited": "无限制",
     "Expiration date *": "失效日期 *",
     "Never": [
@@ -1487,5 +1487,4 @@
             ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(5) td table tbody td:nth-child(2) option:nth-child(2)"
         ]
     ]
-
 }
