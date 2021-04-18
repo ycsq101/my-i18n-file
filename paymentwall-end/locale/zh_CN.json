@@ -1486,5 +1486,28 @@
             "iframe[src='https://api.paymentwall.com/developers/coupons']",
             ".merchant-area-v7>form .container .inline-block .fluid tbody>tr:nth-child(5) td table tbody td:nth-child(2) option:nth-child(2)"
         ]
-    ]
+    ],
+    "Create new coupon": "增加新的优惠券",
+    "+ New Campaign": "+ 增加新活动",
+    "What is Promo Tool?": "什么是促销工具？",
+    "Paymentwall’s Promo Tool makes it easy to set up and manage customized promotional campaigns. Promo tool allows you set up sales, discounts and more with an easy to use tool. You can also save time for future promotions by revising old campaigns.": "Paymentwall的促销工具可让您轻松设置和管理自定义的促销活动。促销工具允许您通过一个易于使用的工具设置销售、折扣等。您还可以通过修改旧的活动，为未来的促销活动节省时间。",
+    "Getting Started": "入门指南",
+    "On your \"Marketing tools\" tab located on the left menu panel of your merchant area, click on the \"Promo Campaigns\" button. Then click on the “New Campaign” button to start your first campaign.": "在商家区域左侧菜单面板的“营销工具”选项卡上，单击“促销活动”按钮。然后点击“+ New Campaign”按钮开始您的第一个促销活动。",
+    "Setting up a New Campaign": "设置一个新的活动",
+    "Name it by filling the “Campaign Name” field.": "填写“活动名称”字段给活动起个名字。",
+    "Choose projects that will be included in the campaign.": "指定那些项目允许当前活动。",
+    "Select the timezone, start date and length of the campaign.": "选择时区、开始日期、活动长度。",
+    "Select payment options and countries for the campaign.": "选择活动的支付方式和国家。",
+    "Set the type of campaign bonus.": "设置活动奖励的类型。",
+    "Example": "例子",
+    "Take a look at this sample price point shown on the widget before promo campaign:": "看一下促销活动开始之前widget付款页面上的价格点数：",
+    "Select a package": "选择一个套餐",
+    "Set pricing grid, which defines whether the promo will account for default bonus set on the price point page (can be applied only to Virtual Currency API type).": "设置定价网格，定义促销活动是否会计入价点页面设置的默认奖金（只能适用于虚拟货币API类型）。",
+    "For instance, in the “Price points” page you’ve set the “Discount type” to “Bonus, %” and “Discount amount” to 30 as shown below:": "例如，在“Price points”页面中，将“Discount type”设置为“Bonus, %”，将“Discount amount”设置为30，如下所示：",
+    "Your widget will show this price point:": "你的widget付款页面将显示这样的价格点数：",
+    "Select “YES” in Activate field.": "在“Activate”字段中选择““YES””。",
+    "Click “SAVE” button.": "点击“保存”按钮。",
+    "You’re good to go!": "你已经完成了！！！！！！",
+    "Managing Active Campaigns": "管理active的活动",
+    "You will see all your active and inactive promo campaigns on your “Promo tool” page. You may edit any of your campaigns any time by clicking the “Edit” button of the respective campaign.": "您将在“促销工具”页面上看到所有有效和无效的促销活动。您可以随时点击相应活动的“编辑”按钮来编辑您的活动。"
 }
