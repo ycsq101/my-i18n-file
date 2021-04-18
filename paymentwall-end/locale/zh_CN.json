@@ -1613,5 +1613,18 @@
     "Decline % on alerts": "降低警报百分比",
     "Passport.Risk Revenue": "Passport.Risk 收入",
     "Drag to zoom-in": "拖动放大",
-    "Revenue (Dollar)": "收入 (美元)"
+    "Revenue (Dollar)": "收入 (美元)",
+    "Pending": "待定",
+    "Auto Declined": "自动拒绝",
+    "Accepted by Paymentwall": "被Paymentwall接受",
+    "Declined by Paymentwall": "被Paymentwall拒绝",
+    "Risk score": "风险评估",
+    "Payment Method": "支付方法",
+    "Price": "价格",
+    "No data found": "没有找到数据",
+    "Purchased": "已购买",
+    "Datetime": "日期时间",
+    "Transaction Country": "交易国家",
+    "Payment Account Country": "付款账户国家",
+    "Risk Score": "风险分数"
 }
