@@ -58,7 +58,7 @@
     "SpiderPipe (Gateway)": "SpiderPipe（网关）",
     "Coupons": "优惠券",
     "Promo Campaigns": "促销活动",
-    "Chargebacks": "扣款",
+    "Chargebacks": "退款",
     "Messaging Center": "消息中心",
     "Research and Refund": "研究与退款",
     "Hide Sidebar": [
@@ -1553,8 +1553,8 @@
     "(GMT +11:00) Asia/Magadan": "（GMT +11：00）亚洲/马达加丹",
     "(GMT +12:00) Asia/Kamchatka": "（GMT +12：00）亚洲/堪察加半岛",
     "(GMT +12:00) Pacific/Fiji": "（GMT +12：00）太平洋/斐济",
-    "Chargeback Date From": "扣款起始日期",
-    "Chargeback Date To": "扣款终止日期",
+    "Chargeback Date From": "退款起始日期",
+    "Chargeback Date To": "退款终止日期",
     "Transaction Date From": "交易起始日期",
     "Transaction Date To": "交易终止日期",
     "Platform User ID": "平台用户ID",
@@ -1651,5 +1651,16 @@
     "Prev": "上一个",
     "Next": "下一个",
     "Alert at": "提醒于",
-    "Deny at": "拒绝于"
+    "Deny at": "拒绝于",
+    "Daily limit for non-chargebackable Payment methods": "不可退款付款方式的每日限额",
+    "A limit for total transaction amount in 24 hours prior to the current transaction. Only applicable to non-chargebackable payment methods": "本次交易前24小时内的交易总额限制。只适用于不可退款的支付方式",
+    "Custom Settings": "自定义设置",
+    "Rules": "规则",
+    "Gross limit in period": "期间总限额",
+    "Days":"天",
+    "Hours":"时",
+    "Minutes":"分",
+    "Seconds":"秒",
+    "Gross in period": "本期毛额",
+    "Period (Seconds)": "期间（秒）"
 }
