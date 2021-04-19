@@ -748,12 +748,7 @@
     ],
     "In HTML code please replace": "在html代码中，请替换",
     "placeholder with id of end-user who is viewing the widget": "占位符，替换为正在查看widget付款页面的终端用户的id。说白了就是替换为那个_id",
-    "Subscriptions": [
-        [
-            "Subscriptions(订阅)",
-            "app-main app-aside.aside .aside-features li.aside-nav__list-item:nth-child(2) a span.aside-nav__list-item-link-text"
-        ]
-    ],
+    "Subscriptions": "Subscriptions(订阅)",
     "Welcome": "欢迎",
     "Get started with Paymentwall": "开始使用Paymentwall",
     "We created a new project for you. Few steps left to start accepting payments. Set up your project,": "我们为你创建了1个新项目，还剩余几个步骤就可以开始接受付款了。设置你的项目，",
@@ -939,6 +934,11 @@
             "订阅试用",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(7) a"
+        ],
+        [
+            "试用",
+            "iframe[src^='https://api.paymentwall.com/developers/tokidoki/?a_id=']",
+            ".merchant-area-v7 .tokidoki-main-container .tokidoki .tokidoki-content .package-form .package-form-content .row:nth-child(4) h3"
         ]
     ],
     "Post-trial product": [
@@ -966,6 +966,11 @@
             "排序",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(18) a"
+        ],
+        [
+            "排序",
+            "iframe[src^='https://api.paymentwall.com/developers/tokidoki/?a_id=']",
+            ".merchant-area-v7 .tokidoki-main-container .tokidoki .tokidoki-content .package-form .package-form-content .row:nth-child(2) .form-inline .mx-sm-2 .control-label"
         ]
     ],
     "Time based": "按时间计算",
@@ -1414,6 +1419,11 @@
             "有效",
             "iframe[src='https://api.paymentwall.com/developers/coupons']",
             ".merchant-area-v7 .container .panel tbody tr:nth-child(2) td:nth-child(1) option:nth-child(2)"
+        ],
+        [
+            "是否激活",
+            "iframe[src^='https://api.paymentwall.com/developers/tokidoki/?a_id=']",
+            ".merchant-area-v7 .tokidoki-main-container .tokidoki .tokidoki-content .package-form .package-form-content .row:nth-child(1) label.control-label"
         ]
     ],
     "Expired": "已过期",
@@ -1813,5 +1823,51 @@
     "Merchant trusted user": "商家信任用户",
     "Merchant user account age": "商户用户账户年龄",
     "Merchant application ID": "商家申请ID",
-    "Merchant application language": "商家申请语言"
+    "Merchant application language": "商家申请语言",
+    "How do Subscriptions work?": "订阅如何工作？",
+    "Implement our recurring billing solution for all your subscription plans. Charge your customers on a periodic basis, create custom recurring packages, set up revenue recovery plans, and more. We also cover complex business cases with discounts or multiple trial periods, subscription upgrades, downgrades, immediate or scheduled cancellations.": "为您的所有订阅计划实施我们的循环计费解决方案。定期向您的客户收取费用，创建自定义的重复性套餐，设置收入回收计划等。我们还涵盖了复杂的商业案例，包括折扣或多个试用期、订阅升级、降级、立即或计划取消。",
+    "Grow your subscription revenue with more features included": "增加您的订阅收入，包括更多的功能",
+    "Support payments via credit card": "支持通过信用卡支付",
+    "Support variable business models": "支持可变的业务模式",
+    "Custom package setting": "自定义包装设置",
+    "Support for trial period": "对试用期的支持",
+    "Reaching out to your customers via email to resolve problems if their payments fail.": "如果客户付款失败，通过电子邮件联系客户解决问题。",
+    "Revenue recovery with dunning management": "用Dunning管理回收收入",
+    "Cancel subscription": "取消订阅",
+    "Upgrade/Downgrade subscription": "升级/降级订阅",
+    "Predictive billing calendar": "预测计费日历",
+    "Email communication": "电子邮件通信",
+    "Packages": "套餐",
+    "Package Management": "套餐管理",
+    "+ Add new package": "+ 增加新套餐",
+    "You don't have any package yet. Please add a new package.": "您还没有任何套餐。请添加一个新的套餐。",
+    
+    
+    
+    
+    "Create New Package": "创建新套餐",
+    "Package Identity": "套餐标识",
+    "Please give a name and an identifier (SKU ID) to the new package": "请给新套餐一个名称和标识符(SKU ID)。",
+    "Package Name": "套餐名称",
+    "Package SKU ID": "套餐SKU ID",
+    "Price & Billing Cycles": "价格和账单周期",
+    "How frequently are users going to charged?": "用户多久会被收费？",
+    "Discount Price": "折扣价格",
+
+    "Charge users every": "多久向用户收费一次",
+    "day (s)": "天",
+    "week (s)": "周",
+    "month (s)": "月",
+    "Subscription runs": "订阅运行",
+    "Until cancelled - No expiration": "直到取消 - 没有失效",
+    "Expire after": "过期后",
+    "By default we support subscription period up to 12 months. If you want to extend your subscription period over than 12 months, please contact our": "默认情况下，我们支持长达12个月的订阅期。如果您想延长您的订阅期超过12个月，请联系我们。",
+    "customer support": "客服支持",
+
+    "Is there a trial version of this package?": "此套餐存在试用吗？如免费试用1个月，1个月过后开始计费",
+    "Trial Type": "试用种类",
+    "No Trial": "无试用",
+    "Free Trial": "免费试用",
+    "Initial Trial Period": "最初的试用期时间",
+    "Paid Trial": "付费试用"
 }
