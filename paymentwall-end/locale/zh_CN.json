@@ -252,13 +252,7 @@
             ".merchant-area-v7 .container form table tbody tr:nth-child(2) th"
         ]
     ],
-    "Email": [
-        [
-            "邮箱",
-            "iframe[src='https://api.paymentwall.com/developers/account']",
-            ".merchant-area-v7 .container form table tbody tr:nth-child(3) th"
-        ]
-    ],
+    "Email": "邮箱",
     "Subaccount password": [
         [
             "子账号密码",
@@ -929,18 +923,7 @@
         ]
     ],
     "Recurring billing *": "Recurring billing(循环计费) *",
-    "Trial": [
-        [
-            "订阅试用",
-            "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
-            ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(7) a"
-        ],
-        [
-            "试用",
-            "iframe[src^='https://api.paymentwall.com/developers/tokidoki/?a_id=']",
-            ".merchant-area-v7 .tokidoki-main-container .tokidoki .tokidoki-content .package-form .package-form-content .row:nth-child(4) h3"
-        ]
-    ],
+    "Trial": "试用",
     "Post-trial product": [
         [
             "试用后产品",
@@ -1841,10 +1824,6 @@
     "Package Management": "套餐管理",
     "+ Add new package": "+ 增加新套餐",
     "You don't have any package yet. Please add a new package.": "您还没有任何套餐。请添加一个新的套餐。",
-    
-    
-    
-    
     "Create New Package": "创建新套餐",
     "Package Identity": "套餐标识",
     "Please give a name and an identifier (SKU ID) to the new package": "请给新套餐一个名称和标识符(SKU ID)。",
@@ -1853,7 +1832,6 @@
     "Price & Billing Cycles": "价格和账单周期",
     "How frequently are users going to charged?": "用户多久会被收费？",
     "Discount Price": "折扣价格",
-
     "Charge users every": "多久向用户收费一次",
     "day (s)": "天",
     "week (s)": "周",
@@ -1863,11 +1841,42 @@
     "Expire after": "过期后",
     "By default we support subscription period up to 12 months. If you want to extend your subscription period over than 12 months, please contact our": "默认情况下，我们支持长达12个月的订阅期。如果您想延长您的订阅期超过12个月，请联系我们。",
     "customer support": "客服支持",
-
     "Is there a trial version of this package?": "此套餐存在试用吗？如免费试用1个月，1个月过后开始计费",
     "Trial Type": "试用种类",
     "No Trial": "无试用",
     "Free Trial": "免费试用",
     "Initial Trial Period": "最初的试用期时间",
-    "Paid Trial": "付费试用"
+    "Paid Trial": "付费试用",
+    "Subscriber Email": "订阅者的邮箱",
+    "Package Id": "套餐ID",
+    "Start Date": "开始日期",
+    "Last Charge Date": "上一次收费的日期",
+    "Next Charge Date": "下一次收费的日期",
+    "Cancelled": "已取消",
+    "Stopped": "已停止",
+    "Pending Expiration": "等待到期",
+    "Pending Cancellation": "待取消",
+    "There are no results that match your search.": "没有符合您搜索的结果。",
+    "Processing": "处理中",
+    "Failure": "失败",
+    "Success": "成功",
+
+
+
+
+
+    "Dunning Auto": "自动催款",
+    "Dunning Manual": "催款手册",
+    "Why do they call Dunning Management as revenue recovery for your business ?": "为什么说催款管理是为您的企业恢复收入？",
+    "Dunning Management helps you solve the problem of managing complications of credit card payment decline. When a customer's credit card payment fails (due to credit card limits or expired credit card for example), Subscriptions will initiate a process called dunning management. This process involves flexible reminder notifications, automatic charge retry on failed payments and custom dunning management plan . You and your customers will both gain benefits from dunning process:": "邓宁管理帮助您解决管理信用卡支付失败的并发症问题。当客户的信用卡付款失败时（例如由于信用卡限额或信用卡过期），Subscriptions将启动一个称为Dunning管理的过程。这个过程包括灵活的提醒通知，对失败的付款自动重试收费，以及定制的扣款管理计划。您和您的客户都将从退款过程中获得好处。",
+    "- Your customers will be notified via email about the failed payments with detail information of subscription so that they can make proper actions to keep using your services.": "- 您的客户将通过电子邮件收到付款失败的通知，并提供详细的订购信息，以便他们能够采取适当的行动继续使用您的服务。",
+    "- The number of automatic retry/attempt (up to 4 times) and duration of time (up to 24 hours) between retry/attempt can be customized by you. You will have more chances to collect money from your customers and then do not lost any customers or future cash flows just because of a single failed payment.": "- 您可以自定义自动重试/尝试的次数（最多4次）和重试/尝试之间的时间长度（最多24小时）。您将有更多的机会从您的客户那里收回资金，然后不会因为一次付款失败而失去任何客户或未来的现金流。",
+    "Retries and Dunning Management": "重试和扣款管理",
+    "If the first attempt fails": "如果第一次尝试失败",
+    "If the second retry attempt fails": "如果第二次重试失败",
+    "If the third retry attempt fails": "如果第三次重试失败",
+    "If the fourth retry attempt fails": "如果第四次重试失败",
+    "If the fifth retry attempt fails": "如果第五次重试失败",
+    "Save Dunning Settings": "保存唐宁设置",
+    "Grace Period Notice: if a payment fails and all retries fail, a user will get a total of 12 hour(s) grace period until the subscription is considered as Stopped.": "宽限期通知：如果支付失败且所有重试都失败，用户将获得总共12小时的宽限期，直到订阅被视为停止。"
 }
