@@ -1863,7 +1863,7 @@
     "Dunning Auto": "自动催款",
     "Dunning Manual": "催款手册",
     "Why do they call Dunning Management as revenue recovery for your business ?": "为什么说催款管理是为您的企业恢复收入？",
-    "Dunning Management helps you solve the problem of managing complications of credit card payment decline. When a customer's credit card payment fails (due to credit card limits or expired credit card for example), Subscriptions will initiate a process called dunning management. This process involves flexible reminder notifications, automatic charge retry on failed payments and custom dunning management plan . You and your customers will both gain benefits from dunning process:": "催款管理帮助您解决管理信用卡支付失败的并发症问题。当客户的信用卡付款失败时（例如由于信用卡限额或信用卡过期），Subscriptions将启动一个称为Dunning管理的过程。这个过程包括灵活的提醒通知，对失败的付款自动重试收费，以及定制的扣款管理计划。您和您的客户都将从退款过程中获得好处。",
+    "Dunning Management helps you solve the problem of managing complications of credit card payment decline. When a customer's credit card payment fails (due to credit card limits or expired credit card for example), Subscriptions will initiate a process called dunning management. This process involves flexible reminder notifications, automatic charge retry on failed payments and custom dunning management plan . You and your customers will both gain benefits from dunning process:": "催款管理帮助您解决管理信用卡支付失败的并发症问题。当客户的信用卡付款失败时（例如由于信用卡限额或信用卡过期），Subscriptions将启动一个称为Dunning管理的过程。这个过程包括灵活的提醒通知，对失败的付款自动重试收费，以及定制的扣款管理计划。您和您的客户都将从退款过程中获得好处:",
     "- Your customers will be notified via email about the failed payments with detail information of subscription so that they can make proper actions to keep using your services.": "- 您的客户将通过电子邮件收到付款失败的通知，并提供详细的订购信息，以便他们能够采取适当的行动继续使用您的服务。",
     "- The number of automatic retry/attempt (up to 4 times) and duration of time (up to 24 hours) between retry/attempt can be customized by you. You will have more chances to collect money from your customers and then do not lost any customers or future cash flows just because of a single failed payment.": "- 您可以自定义自动重试/尝试的次数（最多4次）和重试/尝试之间的时间长度（最多24小时）。您将有更多的机会从您的客户那里收回资金，然后不会因为一次付款失败而失去任何客户或未来的现金流。",
     "Retries and Dunning Management": "重试和扣款管理",
@@ -1874,7 +1874,6 @@
     "If the fifth retry attempt fails": "如果第五次重试失败",
     "Save Dunning Settings": "保存催款设置",
     "Grace Period Notice: if a payment fails and all retries fail, a user will get a total of 12 hour(s) grace period until the subscription is considered as Stopped.": "宽限期通知：如果支付失败且所有重试都失败，用户将获得总共12小时的宽限期，直到订阅被视为停止。",
-
     "Email Settings": "邮箱设置",
     "Support information": "支持信息",
     "You can add the following Support Email and Support Link into the emails sent to users.": "您可以在发送给用户的邮件中添加以下支持邮件和支持链接。",
@@ -1894,5 +1893,11 @@
     "Support Link": "支持链接",
     "Cancellation Instructions": "取消说明",
     "Signature Text": "签名文字",
-    "Update Email Settings": "更新电子邮件设置"
+    "Update Email Settings": "更新电子邮件设置",
+    "Payment widget link": "支付widget页面链接",
+    "Test login": "测试登录",
+    "Test password": "测试密码",
+    "I confirm that the pingback has been tracked and the product has been delivered.": "我确认pingback已被追踪，并且已经交付了商品，或已经完成了服务。",
+    "Developer email": "开发者的邮箱",
+    "Optionally you can assign a developer to handle integration checklist. We will send all technical details to provided email address and create sub-account for the developer.": "你可以选择指定一个开发人员来处理集成清单。我们将把所有技术细节发送到所提供的电子邮件地址，并为开发人员创建子账户。"
 }
