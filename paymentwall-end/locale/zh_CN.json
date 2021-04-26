@@ -1607,7 +1607,7 @@
     "Passport.Risk Revenue": "Passport.Risk 收入",
     "Drag to zoom-in": "拖动放大",
     "Revenue (Dollar)": "收入 (美元)",
-    "Pending": "待定",
+    "Pending": "审核中",
     "Auto Declined": "自动拒绝",
     "Accepted by Paymentwall": "被Paymentwall接受",
     "Declined by Paymentwall": "被Paymentwall拒绝",
@@ -1899,5 +1899,6 @@
     "Test password": "测试密码",
     "I confirm that the pingback has been tracked and the product has been delivered.": "我确认pingback已被追踪，并且已经交付了商品，或已经完成了服务。",
     "Developer email": "开发者的邮箱",
-    "Optionally you can assign a developer to handle integration checklist. We will send all technical details to provided email address and create sub-account for the developer.": "你可以选择指定一个开发人员来处理集成清单。我们将把所有技术细节发送到所提供的电子邮件地址，并为开发人员创建子账户。"
+    "Optionally you can assign a developer to handle integration checklist. We will send all technical details to provided email address and create sub-account for the developer.": "你可以选择指定一个开发人员来处理集成清单。我们将把所有技术细节发送到所提供的电子邮件地址，并为开发人员创建子账户。",
+    "Paymentwall. It can be accessed by using the link below.":"Paymentwall. It can be accessed by using the link below.(我已经集成了Paymentwall。可以使用下面的链接进行访问。)"
 }
