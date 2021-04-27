@@ -872,6 +872,7 @@
     "If you click Set, regions you set up will be replaced with our default regions list which you can see below. Please note that your Virtual Currency Prices / Subscription settings might be overwritten.": "如果您点击底部的SET按钮，您所设置的区域将被我们的默认区域列表所取代，您可以看到以下内容。请注意，您的虚拟货币价格/Subscription settings(订阅设置)可能会被覆盖。",
     "Europe:": "欧洲：",
     "Default:": "默认：",
+    "Unspecified":"Unspecified(未指定)",
     "+ Add new product": "+ 添加新产品",
     "Recurring billing": "Recurring billing",
     "is possible for time based products that last less than a year. Not all payment systems support recurring billing, thus it will be used where it's possible.": "对于基于时间的产品，并且持续时间少于一年，则可以进行定期循环计费。并非所有的payment systems都支持recurring billing(循环计费)，因为它会在可能的情况下，才会被使用。",
