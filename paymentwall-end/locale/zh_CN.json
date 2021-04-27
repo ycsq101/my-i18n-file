@@ -883,7 +883,7 @@
             ".merchant-area-v7 .container_app .search_wrapp .panel #panelForm .product_options thead th:nth-child(2)"
         ],
         [
-            "收款类型",
+            "商品类型",
             "iframe[src^='https://api.paymentwall.com/developers/subscriptions/?id=']",
             ".merchant-area-v7 .container_app .underpanel #goods_form .product_table thead th:nth-child(3) a"
         ],
@@ -1900,5 +1900,5 @@
     "I confirm that the pingback has been tracked and the product has been delivered.": "我确认pingback已被追踪，并且已经交付了商品，或已经完成了服务。",
     "Developer email": "开发者的邮箱",
     "Optionally you can assign a developer to handle integration checklist. We will send all technical details to provided email address and create sub-account for the developer.": "你可以选择指定一个开发人员来处理集成清单。我们将把所有技术细节发送到所提供的电子邮件地址，并为开发人员创建子账户。",
-    "Paymentwall. It can be accessed by using the link below.":"Paymentwall. It can be accessed by using the link below.(我已经集成了Paymentwall。可以使用下面的链接进行访问。)"
+    "Paymentwall. It can be accessed by using the link below.": "Paymentwall. It can be accessed by using the link below.(我已经集成了Paymentwall。可以使用下面的链接进行访问。)"
 }
