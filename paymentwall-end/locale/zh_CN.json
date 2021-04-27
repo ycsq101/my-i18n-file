@@ -865,7 +865,7 @@
     "2. Add countries to selected region": "2. 添加国家到指定区域",
     "+ Add new region": "+ 添加新区域",
     "Set default regions": "设置默认区域",
-    "Countries without region": "不含区域的国家",
+    "Countries without region": "未添加进区域的国家",
     "Add new region": "增加新区域",
     "Region name: ": "区域名称：",
     "Set to default regions": "设置为默认区域",
