@@ -860,7 +860,7 @@
     "Country code of the payment account, e.g. bank account country or CC BIN country": "支付账号的国家代码，例如：银行账号的国家或者CC BIN国家",
     "Virtual currency amount received by end-user": "终端用户收到的虚拟机货币数量",
     "Virtual currency amount without bonuses and discounts": "没有奖金和折扣的虚拟货币数量",
-    "Set up regions to quickly use in various tools.": "设置区域，以便在各种工具中快速使用。",
+    "Set up regions to quickly use in various tools.": "设置区域，以便在各种工具中快速使用。这里其实是，划分所有的国家，例如，设置1个亚洲的区域，反而将美国，添加进亚洲区域，那么就会认定，美国就属于亚洲区域",
     "1. Select region": "1. 选择区域",
     "2. Add countries to selected region": "2. 添加国家到指定区域",
     "+ Add new region": "+ 增加1个新区域",
